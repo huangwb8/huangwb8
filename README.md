@@ -18,7 +18,3 @@ Here are some ideas to get you started:
 <div align="center">  
   <img  src="https://github-readme-stats.vercel.app/api?username=huangwb8&show_icons=true" />
 </div>
-
-<div align="center">  
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=huangwb8&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
