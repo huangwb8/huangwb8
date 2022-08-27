@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# [Welcome](https://blognas.hwb0307.com) ✨ <a href="https://blognas.hwb0307.com"><img src="https://komarev.com/ghpvc/?username=huangwb8&color=blueviolet&style=flat-square&label=Nice+To+Meet+U"></a>
 
-<p align="center" dir="auto"> 
- <img src="https://camo.githubusercontent.com/cc4708ae997c66266242acece86874c8b81a8455fb2a85987fe30bafadbc7428/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d7a6b6571267468656d653d616c676f6c696126726f773d3226636f6c756d6e3d33266e6f2d6672616d653d74727565" width="36.5%" data-canonical-src="https://github-profile-trophy.vercel.app/?username=huangwb8;theme=algolia&amp;row=2&amp;column=3&amp;no-frame=true" style="max-width: 100%;">
- <img src="https://camo.githubusercontent.com/2bb6db90d6d9d4c48cca1406969f50e9ae522cd3a93b16230fd7d46cae1b7663/68747470733a2f2f73746174732e726561646d652e69636f6465712e636f6d2f6170693f757365726e616d653d7a6b65712673686f775f69636f6e733d74727565267468656d653d7261646963616c2626686964655f626f726465723d74727565" width="61.7%" data-canonical-src="https://stats.readme.icodeq.com/api?username=huangwb8;show_icons=true&amp;theme=radical&amp;&amp;hide_border=true" style="max-width: 100%;">
+<a href="https://blognas.hwb0307.com">
+<p align="center"> 
+ <img src="https://github-profile-trophy.vercel.app/?username=huangwb8&theme=algolia&row=2&column=3&no-frame=true" width="36.5%"/>
+ <img src="https://stats.readme.icodeq.com/api?username=huangwb8&show_icons=true&theme=radical&&hide_border=true" width="61.7%"/>
 </p>
+</a>
