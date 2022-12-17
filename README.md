@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 # [Welcome!](https://blognas.hwb0307.com) ✨ <a href="https://blognas.hwb0307.com"><img src="https://komarev.com/ghpvc/?username=huangwb8&color=blueviolet&style=flat-square&label=Nice+To+Meet+U"></a>
 
 <a href="https://blognas.hwb0307.com">
-<p align="center"> 
- <img src="https://github-profile-trophy.vercel.app/?username=huangwb8&theme=algolia&row=2&column=3&no-frame=true" width="36.5%"/>
- <img src="https://stats.readme.icodeq.com/api?username=huangwb8&show_icons=true&theme=radical&&hide_border=true" width="61.7%"/>
-</p>
- 
+
 <p align="center">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=huangwb8&theme=algolia&row=2&column=3&no-frame=true" width="36.5%">
@@ -32,7 +28,6 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: dark)" srcset="https://stats.readme.icodeq.com/api?username=huangwb8&show_icons=true&theme=radical&hide_border=true" width="61.7%">
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://stats.readme.icodeq.com/api?username=huangwb8&show_icons=true" width="61.7%">
 </picture>
- 
 </p>
  
 </a>
