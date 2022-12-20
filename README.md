@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </a>
 
 
-<details hide>
+<!-- <details hide>
 <summary>About Me..</summary>
 <a href="https://blognas.hwb0307.com">
  <p align="center"> 
@@ -43,4 +43,4 @@ Here are some ideas to get you started:
   </picture>
  </p>
 </a>
-</details>
+</details> -->
