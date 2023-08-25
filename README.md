@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 </picture>
  
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=huangwb8&show_icons=true&theme=radical&hide_border=true" width="61.7%">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api?username=huangwb8&show_icons=true" width="61.7%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=huangwb8&show_icons=true&theme=radical&hide_border=true" width="55%">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api?username=huangwb8&show_icons=true" width="55%">
 </picture>
 </p>
  
