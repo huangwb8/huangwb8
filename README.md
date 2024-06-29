@@ -33,9 +33,10 @@ Here are some ideas to get you started:
  
 </a>
 
-[![Readme Card](https://random-image.vercel.app/api/pin/?username=huangwb8&repo=random-image&show_owner=true)](https://github.com/huangwb8/random-image)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w&show_owner=true)](https://github.com/huangwb8/random-image)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=random-image&show_owner=true)](https://github.com/huangwb8/random-image)
+
 
 
 <!-- <details hide>
