@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 </a>
 
-# :cat: Research
+# :rainbow: Research
 
 <p align="center">
   <a href="https://github.com/huangwb8/GSClassifier" style="display: inline-block;">
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-# :tiger: Blogger
+# :speedboat: Blogger
 
 <p align="center">
   <a href="https://github.com/huangwb8/m2w" style="display: inline-block;">
