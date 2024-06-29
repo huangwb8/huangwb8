@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </a>
 
 
-<p>
+<p align="center">
   <a href="https://github.com/huangwb8/m2w" style="display: inline-block;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w" width="46.5%">
   </a>
