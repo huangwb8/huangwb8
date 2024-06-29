@@ -33,11 +33,14 @@ Here are some ideas to get you started:
  
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w&show_owner=true)](https://github.com/huangwb8/random-image)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=random-image&show_owner=true)](https://github.com/huangwb8/random-image)
-
-
+<p>
+  <a href="https://github.com/huangwb8/m2w">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w" />
+  </a>
+  <a href="https://github.com/huangwb8/luckyBase">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=luckyBase" />
+  </a>
+</p>
 
 <!-- <details hide>
 <summary>About Me..</summary>
