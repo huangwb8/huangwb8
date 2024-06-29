@@ -30,19 +30,18 @@ Here are some ideas to get you started:
 </picture>
 
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="58%">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="58%">
-</picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w" width="45%">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w" width="45%">
+ </picture>
+ 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=luckyBase" width="45%">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=luckyBase" width="45%">
+ </picture>
 
 </p>
  
 </a>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=luckyBase)](https://github.com/huangwb8/luckyBase)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=random-image)](https://github.com/huangwb8/random-image)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <details hide>
 <summary>About Me..</summary>
