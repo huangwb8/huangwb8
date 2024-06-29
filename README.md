@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-# :tiger: blog
+# :tiger: blogger
 
 <p align="center">
   <a href="https://github.com/huangwb8/m2w" style="display: inline-block;">
