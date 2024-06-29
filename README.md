@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://github.com/huangwb8/m2w" style="display: inline-block;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w" width="36.5%">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w" width="46.5%">
   </a>
   <a href="https://github.com/huangwb8/ChineseResearchLaTeX" style="display: inline-block;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=ChineseResearchLaTeX" width="58%">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=ChineseResearchLaTeX" width="48%">
   </a>
 </p>
 
