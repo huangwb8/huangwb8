@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://github.com/huangwb8/m2w" style="display: inline-block;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w" width="43.75%">
+  <a href="https://github.com/huangwb8/GSClassifier" style="display: inline-block;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=GSClassifier" width="43.75%">
   </a>
   <a href="https://github.com/huangwb8/ChineseResearchLaTeX" style="display: inline-block;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=ChineseResearchLaTeX" width="50.75%">
