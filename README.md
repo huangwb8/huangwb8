@@ -32,9 +32,9 @@ Here are some ideas to get you started:
  
 </a>
 
-[![Card luckyBase](https://luckyBase.vercel.app/api/pin/?username=huangwb8&repo=luckyBase&show_owner=true)](https://github.com/huangwb8/luckyBase)
+[![Card luckyBase](https://github-profile-trophy.vercel.app/api/pin/?username=huangwb8&repo=luckyBase&show_owner=true)](https://github.com/huangwb8/luckyBase)
 
-[![Card random-image](https://random-image.vercel.app/api/pin/?username=huangwb8&repo=random-image&show_owner=true)](https://github.com/huangwb8/random-image)
+[![Card random-image](https://github-profile-trophy.vercel.app/api/pin/?username=huangwb8&repo=random-image&show_owner=true)](https://github.com/huangwb8/random-image)
 
 
 <!-- <details hide>
