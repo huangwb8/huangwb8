@@ -33,36 +33,15 @@ Here are some ideas to get you started:
  
 </a>
 
-<style>
-  .container {
-    display: flex;
-    width: 100%;
-    gap: 10px; /* 可选：在两个卡片之间添加间距 */
-  }
-
-  .repo-card {
-    flex: 1;
-    display: flex;
-  }
-
-  .repo-card img {
-    width: 100%;
-    height: auto;
-    object-fit: cover;
-  }
-</style>
-
-<div class="container">
-  <picture class="repo-card">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w">
-    <img alt="m2w repo" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w">
-  </picture>
+<picture class="repo-card">
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w">
+   <img alt="m2w repo" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w">
+ </picture>
   
-  <picture class="repo-card">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=luckyBase">
-    <img alt="luckyBase repo" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=luckyBase">
-  </picture>
-</div>
+ <picture class="repo-card">
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=luckyBase">
+   <img alt="luckyBase repo" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=luckyBase">
+ </picture>
 
 <!-- <details hide>
 <summary>About Me..</summary>
