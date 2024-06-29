@@ -40,6 +40,22 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+# About blog
+
+<p align="center">
+  <a href="https://github.com/huangwb8/m2w" style="display: inline-block;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w" width="43.75%">
+  </a>
+  <a href="https://github.com/huangwb8/bloghelper" style="display: inline-block;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=bloghelper" width="50.75%">
+  </a>
+  <a href="https://github.com/huangwb8/live2dyy" style="display: inline-block;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=live2dyy" width="43.75%">
+  </a>
+  <a href="https://github.com/huangwb8/random-image" style="display: inline-block;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=random-image" width="50.75%">
+  </a>
+</p>
 
 <!-- <details hide>
 <summary>About Me..</summary>
