@@ -23,12 +23,10 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=huangwb8&theme=algolia&row=2&column=3&no-frame=true" width="36.5%">
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-profile-trophy.vercel.app/?username=huangwb8&theme=flat&row=2&column=3&margin-w=1&margin-h=1" width="36.5%">
 </picture>
- 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=huangwb8&show_icons=true&theme=radical&hide_border=true" width="58%">
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api?username=huangwb8&show_icons=true" width="58%">
 </picture>
-
 </p>
 
 <p align="center">
@@ -36,12 +34,21 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w" width="43.75%">
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w" width="43.75%">
 </picture>
- 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=ChineseResearchLaTeX" width="50.75%">
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=ChineseResearchLaTeX" width="50.75%">
 </picture>
+</p>
 
+<p align="center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=GSClassifier" width="43.75%">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=GSClassifier" width="43.75%">
+</picture>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=bloghelper" width="50.75%">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=bloghelper" width="50.75%">
+</picture>
 </p>
 
 </a>
