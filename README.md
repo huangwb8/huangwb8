@@ -33,15 +33,10 @@ Here are some ideas to get you started:
  
 </a>
 
-<picture class="repo-card">
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w">
-   <img alt="m2w repo" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w">
- </picture>
-  
- <picture class="repo-card">
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=luckyBase">
-   <img alt="luckyBase repo" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=luckyBase">
- </picture>
+[![Readme Card](https://random-image.vercel.app/api/pin/?username=huangwb8&repo=random-image&show_owner=true)](https://github.com/huangwb8/random-image)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- <details hide>
 <summary>About Me..</summary>
