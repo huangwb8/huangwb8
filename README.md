@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 </picture>
  
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=luckyBase" width="50.75%">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=luckyBase" width="50.75%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=ChineseResearchLaTeX" width="50.75%">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=ChineseResearchLaTeX" width="50.75%">
 </picture>
 
 </p>
