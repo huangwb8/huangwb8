@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w" />
   </a>
   <a href="https://github.com/huangwb8/ChineseResearchLaTeX" style="display: inline-block;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo= ChineseResearchLaTeX" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=ChineseResearchLaTeX" />
   </a>
 </p>
 
