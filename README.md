@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 [![Card random-image](https://github-profile-trophy.vercel.app/api/pin/?username=huangwb8&repo=random-image&show_owner=true)](https://github.com/huangwb8/random-image)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <details hide>
 <summary>About Me..</summary>
