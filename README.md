@@ -29,19 +29,40 @@ Here are some ideas to get you started:
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api?username=huangwb8&show_icons=true" width="58%">
 </picture>
 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w">
- </picture>
- 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=luckyBase">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=luckyBase">
- </picture>
-
 </p>
  
 </a>
+
+<div class="container">
+  <picture class="repo-card">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w">
+    <img alt="m2w repo" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w">
+  </picture>
+  
+  <picture class="repo-card">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=luckyBase">
+    <img alt="luckyBase repo" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=luckyBase">
+  </picture>
+</div>
+
+<style>
+  .container {
+    display: flex;
+    width: 100%;
+    gap: 10px; /* 可选：在两个卡片之间添加间距 */
+  }
+
+  .repo-card {
+    flex: 1;
+    display: flex;
+  }
+
+  .repo-card img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+</style>
 
 <!-- <details hide>
 <summary>About Me..</summary>
