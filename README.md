@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 </a>
 
-# About Research
+# :cat: About Research
 
 <p align="center">
   <a href="https://github.com/huangwb8/GSClassifier" style="display: inline-block;">
