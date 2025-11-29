@@ -56,6 +56,11 @@ Here are some ideas to get you started:
   <a href="https://github.com/huangwb8/live2dyy" style="display: inline-block;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=live2dyy" width="50.75%">
   </a>
+
+  <a href="https://github.com/huangwb8/AutoSaleVPS" style="display: inline-block;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=AutoSaleVPS" width="43.75%">
+  </a>
+  
 </p>
 
 <!-- <details hide>
