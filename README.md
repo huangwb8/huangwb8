@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/huangwb8/GSClassifier" style="display: inline-block;">
-    <img align="center" src="https://readme.hwb0307.com/anuraghazra/github-readme-stats/api/pin/?username=huangwb8&repo=GSClassifier" width="43.75%">
+    <img align="center" src="https://readme.hwb0307.com/anuraghazra/github-readme-stats/api/pin/?username=huangwb8&repo=GSClassifier" width="46.75%">
   </a>
   <a href="https://github.com/huangwb8/ChineseResearchLaTeX" style="display: inline-block;">
-    <img align="center" src="https://readme.hwb0307.com/anuraghazra/github-readme-stats/api/pin/?username=huangwb8&repo=ChineseResearchLaTeX" width="50.75%">
+    <img align="center" src="https://readme.hwb0307.com/anuraghazra/github-readme-stats/api/pin/?username=huangwb8&repo=ChineseResearchLaTeX" width="47.75%">
   </a>
 </p>
 
