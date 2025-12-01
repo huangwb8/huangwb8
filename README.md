@@ -85,18 +85,3 @@
   </tr>    
 </table>    
 </p>    
-    
-<!-- Optional: If you previously had the hidden details section, re-add below if needed -->    
-<!--    
-<details>    
-<summary>About Me..</summary>    
-<a href="https://blognas.hwb0307.com">    
- <p align="center">    
-  <picture>    
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme.hwb0307.com/anuraghazra/github-readme-stats/api/wakatime?username=huangwb8&show_icons=true&theme=algolia&hide_border=true&langs_count=12" width="100%">    
-    <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://readme.hwb0307.com/anuraghazra/github-readme-stats/api/wakatime?username=huangwb8&show_icons=true&langs_count=12" width="100%">    
-  </picture>    
- </p>    
-</a>    
-</details>    
--->
