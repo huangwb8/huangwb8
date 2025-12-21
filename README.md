@@ -82,6 +82,16 @@
              style="display:block; border-radius:6px; object-fit:cover;">    
       </a>    
     </td>    
-  </tr>    
+  </tr>
+  <tr>    
+    <td align="center">    
+      <a href="https://github.com/huangwb8/VibeNotification" style="display:inline-block;">    
+        <img src="https://readme.hwb0307.com/anuraghazra/github-readme-stats/api/pin/?username=huangwb8&repo=VibeNotification&hide_border=true"    
+             alt="VibeNotification"    
+             width="420" height="220"    
+             style="display:block; border-radius:6px; object-fit:cover;">    
+      </a>    
+    </td>       
+  </tr>  
 </table>    
 </p>    
