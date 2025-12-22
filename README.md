@@ -73,15 +73,7 @@
              width="420" height="220"    
              style="display:block; border-radius:6px; object-fit:cover;">    
       </a>    
-    </td>    
-    <td align="center">    
-      <a href="https://github.com/huangwb8/AutoSaleVPS" style="display:inline-block;">    
-        <img src="https://readme.hwb0307.com/anuraghazra/github-readme-stats/api/pin/?username=huangwb8&repo=AutoSaleVPS&hide_border=true"    
-             alt="AutoSaleVPS"    
-             width="420" height="220"    
-             style="display:block; border-radius:6px; object-fit:cover;">    
-      </a>    
-    </td>    
+    </td>     
   </tr>
 </table>    
 </p>
@@ -98,7 +90,15 @@
              width="420" height="220"    
              style="display:block; border-radius:6px; object-fit:cover;">    
       </a>    
-    </td>       
+    </td>
+    <td align="center">    
+      <a href="https://github.com/huangwb8/AutoSaleVPS" style="display:inline-block;">    
+        <img src="https://readme.hwb0307.com/anuraghazra/github-readme-stats/api/pin/?username=huangwb8&repo=AutoSaleVPS&hide_border=true"    
+             alt="AutoSaleVPS"    
+             width="420" height="220"    
+             style="display:block; border-radius:6px; object-fit:cover;">    
+      </a>    
+    </td> 
   </tr>  
 </table>    
 </p>
