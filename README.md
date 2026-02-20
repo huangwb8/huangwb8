@@ -92,9 +92,9 @@
       </a>    
     </td>
     <td align="center">    
-      <a href="https://github.com/huangwb8/game-plain" style="display:inline-block;">    
-        <img src="https://readme.hwb0307.com/anuraghazra/github-readme-stats/api/pin/?username=huangwb8&repo=game-plain&hide_border=true"    
-             alt="game-plain"    
+      <a href="https://github.com/huangwb8/vibe-teaching" style="display:inline-block;">    
+        <img src="https://readme.hwb0307.com/anuraghazra/github-readme-stats/api/pin/?username=huangwb8&repo=vibe-teaching&hide_border=true"    
+             alt="vibe-teaching"    
              width="420" height="220"    
              style="display:block; border-radius:6px; object-fit:cover;">    
       </a>    
