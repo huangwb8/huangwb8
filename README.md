@@ -21,7 +21,15 @@
 <!-- Card dimensions: change CARD_WIDTH and CARD_HEIGHT if you want different size -->    
 <p align="center">    
 <table cellpadding="6" cellspacing="0">    
-  <tr>    
+  <tr>      
+    <td align="center">    
+      <a href="https://github.com/huangwb8/ChineseResearchLaTeX" style="display:inline-block;">    
+        <img src="https://readme.hwb0307.com/anuraghazra/github-readme-stats/api/pin/?username=huangwb8&repo=ChineseResearchLaTeX&hide_border=true"    
+             alt="ChineseResearchLaTeX"    
+             width="420" height="220"    
+             style="display:block; border-radius:6px; object-fit:cover;">    
+      </a>    
+    </td>
     <td align="center">    
       <a href="https://github.com/huangwb8/GSClassifier" style="display:inline-block;">    
         <!-- CARD_WIDTH=420, CARD_HEIGHT=220 ; change these numbers as needed -->    
@@ -30,16 +38,18 @@
              width="420" height="220"    
              style="display:block; border-radius:6px; object-fit:cover;">    
       </a>    
-    </td>    
+    </td>  
+  </tr> 
+  <tr>      
     <td align="center">    
-      <a href="https://github.com/huangwb8/ChineseResearchLaTeX" style="display:inline-block;">    
-        <img src="https://readme.hwb0307.com/anuraghazra/github-readme-stats/api/pin/?username=huangwb8&repo=ChineseResearchLaTeX&hide_border=true"    
-             alt="ChineseResearchLaTeX"    
+      <a href="https://github.com/huangwb8/CCS" style="display:inline-block;">    
+        <img src="https://readme.hwb0307.com/anuraghazra/github-readme-stats/api/pin/?username=huangwb8&repo=CCS&hide_border=true"    
+             alt="CCS"    
              width="420" height="220"    
              style="display:block; border-radius:6px; object-fit:cover;">    
       </a>    
-    </td>    
-  </tr>    
+    </td>  
+  </tr> 
 </table>    
 </p>    
     
