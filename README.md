@@ -38,12 +38,6 @@ width="100%"  height="2">
 
 [![My Skills](https://skillicons.dev/icons?i=r,python,latex,md,bash,git,github,githubactions,docker,vscode,vim,wordpress,linux,mysql,sqlite,ai,obsidian,aws)](https://github.com/huangwb8)
 
-
-### 💻 Stats
-
-[![GitHub Stars](https://img.shields.io/github/stars/huangwb8?style=social&label=Total%20Stars)](https://github.com/huangwb8)
-[![GitHub Followers](https://img.shields.io/github/followers/huangwb8?style=social&label=Followers)](https://github.com/huangwb8?tab=followers)
-
 <details open>
 <summary>点击展开 ...</summary>
 
@@ -65,7 +59,6 @@ width="100%"  height="2">
 </picture>
 
 [![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/huangwb8/huangwb8/master/profile-3d-contrib/profile-night-rainbow.svg)
-
 
 </div>
 
