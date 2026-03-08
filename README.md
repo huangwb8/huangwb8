@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- 动态打字效果 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=70A5FD&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Bensz+%F0%9F%91%8B;Bioinformatician+%7C+R+Developer+%7C+Open+Source+Enthusiast;Building+tools+for+research+and+productivity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=70A5FD&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Bensz+%F0%9F%91%8B;Bioinformatician+%7C+R+Developer+%7C+Open+Source+Enthusiast;Building+tools+for+research+and+productivity" alt="Typing SVG" />
 
 <!-- 社交链接 -->
 <p>
   <a href="https://blognas.hwb0307.com"><img src="https://img.shields.io/badge/Blog-blognas.hwb0307.com-blue?style=flat-square&logo=blogger"></a>
   <a href="https://github.com/huangwb8"><img src="https://img.shields.io/github/followers/huangwb8?label=Follow&style=flat-square&logo=github"></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=huangwb8.huangwb8" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=huangwb8&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
 </div>
@@ -86,12 +86,12 @@
 <tr>
 <td width="50%">
 
-<img src="https://readme.hwb0307.com/api?username=huangwb8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=huangwb8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
 </td>
 <td width="50%">
 
-<img src="https://readme.hwb0307.com/api/top-langs/?username=huangwb8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangwb8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </td>
 </tr>
@@ -110,17 +110,17 @@
 <tr>
 <td width="33%">
 <a href="https://github.com/huangwb8/ChineseResearchLaTeX">
-  <img src="https://readme.hwb0307.com/api/pin/?username=huangwb8&repo=ChineseResearchLaTeX&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=ChineseResearchLaTeX&theme=vue&hide_border=true" />
 </a>
 </td>
 <td width="33%">
 <a href="https://github.com/huangwb8/GSClassifier">
-  <img src="https://readme.hwb0307.com/api/pin/?username=huangwb8&repo=GSClassifier&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=GSClassifier&theme=vue&hide_border=true" />
 </a>
 </td>
 <td width="33%">
 <a href="https://github.com/huangwb8/CCS">
-  <img src="https://readme.hwb0307.com/api/pin/?username=huangwb8&repo=CCS&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=CCS&theme=vue&hide_border=true" />
 </a>
 </td>
 </tr>
@@ -132,17 +132,17 @@
 <tr>
 <td width="33%">
 <a href="https://github.com/huangwb8/m2w">
-  <img src="https://readme.hwb0307.com/api/pin/?username=huangwb8&repo=m2w&theme=buefy&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w&theme=buefy&hide_border=true" />
 </a>
 </td>
 <td width="33%">
 <a href="https://github.com/huangwb8/bloghelper">
-  <img src="https://readme.hwb0307.com/api/pin/?username=huangwb8&repo=bloghelper&theme=buefy&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=bloghelper&theme=buefy&hide_border=true" />
 </a>
 </td>
 <td width="33%">
 <a href="https://github.com/huangwb8/random-image">
-  <img src="https://readme.hwb0307.com/api/pin/?username=huangwb8&repo=random-image&theme=buefy&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=random-image&theme=buefy&hide_border=true" />
 </a>
 </td>
 </tr>
@@ -154,34 +154,34 @@
 <tr>
 <td width="33%">
 <a href="https://github.com/huangwb8/skills">
-  <img src="https://readme.hwb0307.com/api/pin/?username=huangwb8&repo=skills&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=skills&theme=radical&hide_border=true" />
 </a>
 </td>
 <td width="33%">
 <a href="https://github.com/huangwb8/vibe-teaching">
-  <img src="https://readme.hwb0307.com/api/pin/?username=huangwb8&repo=vibe-teaching&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=vibe-teaching&theme=radical&hide_border=true" />
 </a>
 </td>
 <td width="33%">
 <a href="https://github.com/huangwb8/VibeNotification">
-  <img src="https://readme.hwb0307.com/api/pin/?username=huangwb8&repo=VibeNotification&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=VibeNotification&theme=radical&hide_border=true" />
 </a>
 </td>
 </tr>
 <tr>
 <td width="33%">
 <a href="https://github.com/huangwb8/AutoSaleVPS">
-  <img src="https://readme.hwb0307.com/api/pin/?username=huangwb8&repo=AutoSaleVPS&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=AutoSaleVPS&theme=radical&hide_border=true" />
 </a>
 </td>
 <td width="33%">
 <a href="https://github.com/huangwb8/GRE">
-  <img src="https://readme.hwb0307.com/api/pin/?username=huangwb8&repo=GRE&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=GRE&theme=radical&hide_border=true" />
 </a>
 </td>
 <td width="33%">
 <a href="https://github.com/huangwb8/Grouper">
-  <img src="https://readme.hwb0307.com/api/pin/?username=huangwb8&repo=Grouper&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=Grouper&theme=radical&hide_border=true" />
 </a>
 </td>
 </tr>
@@ -193,15 +193,14 @@
 
 <div align="center">
 
-<!-- 贡献蛇形图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huangwb8/huangwb8/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huangwb8/huangwb8/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huangwb8/huangwb8/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- GitHub 贡献图 -->
+<img src="https://ghchart.rshah.org/70A5FD/huangwb8" alt="GitHub Contribution Chart" />
 
 <!-- 活动图表 -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=huangwb8&theme=tokyo-night&hide_border=true&area=true" />
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=huangwb8&theme=tokyonight&hide_border=true" />
 
 </div>
 
