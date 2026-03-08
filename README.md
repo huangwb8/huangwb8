@@ -9,19 +9,20 @@ width="100%"  height="2">
 
 </div>
 
-<img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/qmsht.gif?raw=true" width="450" height="390" />
+<!-- <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/qmsht.gif?raw=true" width="450" height="390" /> -->
+<img align='right' src="https://chevereto.hwb0307.com/images/2023/04/28/zzmx-71.jpg" width="450"/>
 
-我是一名生物信息学家，专注于肿瘤基因组学和临床数据分析研究。在南方医科大学珠江医院普外科工作，致力于将生物信息学方法应用于临床研究，推动精准医学的发展。
+I am a bioinformatician specializing in cancer genomics and clinical data analysis. Working at the Department of General Surgery, Zhujiang Hospital, Southern Medical University, I am dedicated to applying bioinformatics methods to clinical research and advancing precision medicine.
 
-作为一名 R 语言开发者和开源爱好者，我相信技术的力量可以推动医学研究的进步。我热衷于开发实用的工具和模板，帮助科研工作者更高效地完成工作，让科研变得更加简单和美好。
+As an R developer and open-source enthusiast, I believe in the power of technology to drive medical research forward. I am passionate about developing practical tools and templates that help researchers work more efficiently, making scientific research simpler and more beautiful.
 
-讲几个简单的理念：
+Here are a few core principles I live by:
 
-- 1，**Learn for beauty** - 为美好而学习，保持对知识的热爱和对美的追求，在科研道路上不断前行。
-- 2，人的成长很大程度来源于**持续学习**和**知识分享**。希望自己认真做一个传承者，学到的，内化的，分享的，与人有益，幸甚！
-- 3，我也是一个喜欢交友的人，对待任何一个熟悉的陌生的，都保持开放和友善的态度，也希望借此能够结交更多志同道合的朋友。
+- 1. **Learn for beauty** - Learning for the sake of beauty, maintaining a love for knowledge and pursuit of elegance, continuously advancing on the path of scientific research.
+- 2. Personal growth largely stems from **continuous learning** and **knowledge sharing**. I aspire to be a dedicated knowledge bearer—what I learn, internalize, and share should benefit others. That would be my greatest fortune!
+- 3. I am also someone who enjoys making friends. I maintain an open and friendly attitude toward everyone, whether familiar or new, hoping to connect with more like-minded individuals.
 
-### 🤗 欢迎来访
+### 🤗 Welcome
 
 [![](https://img.shields.io/github/stars/huangwb8?color=fefb7b&logo=Undertale)](https://github.com/huangwb8)
 [![](https://img.shields.io/github/followers/huangwb8?color=27da6b&logo=Handshake)](https://github.com/huangwb8?tab=followers)
@@ -32,14 +33,14 @@ width="100%"  height="2">
 [![](https://img.shields.io/badge/Bluesky-@benszconan-0285FF?logo=Bluesky)](https://bsky.app/profile/benszconan.bsky.social)
 
 
-### 🧰 语言工具
+### 🧰 Tech Stack
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" /<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" /<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" /></div>
 
 [![My Skills](https://skillicons.dev/icons?i=r,python,latex,md,bash,git,github,githubactions,docker,vscode,wordpress,linux,,ai)](https://github.com/huangwb8)
 
 <details open>
-<summary>点击展开 ...</summary>
+<summary>Click to expand ...</summary>
 
 <div align="center">
 
@@ -64,10 +65,10 @@ width="100%"  height="2">
 
 </details>
 
-### 🏊 更多仓库
+### 🏊 More Repositories
 
 <details open>
-<summary>点击展开 ...</summary>
+<summary>Click to expand ...</summary>
 
 |                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
 | :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
@@ -88,16 +89,16 @@ width="100%"  height="2">
 </details>
 
 
-### 📝 博客最近更新
+### 📝 Recent Blog Posts
 
 <details open>
-<summary>点击展开 ...</summary>
+<summary>Click to expand ...</summary>
 
 <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" />
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-更多内容直接点击：[https://blognas.hwb0307.com](https://blognas.hwb0307.com)
+For more content, visit: [https://blognas.hwb0307.com](https://blognas.hwb0307.com)
 
 </details>
