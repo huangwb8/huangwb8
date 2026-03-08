@@ -1,13 +1,18 @@
 <div align="center">
 
 <!-- 动态打字效果 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=70A5FD&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Bensz+%F0%9F%91%8B;Bioinformatician+%7C+R+Developer+%7C+Open+Source+Enthusiast;Building+tools+for+research+and+productivity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=70A5FD&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Bensz+%F0%9F%91%8B;Bioinformatician+%7C+R+Developer+%7C+Open+Source+Enthusiast;Building+tools+for+research+and+productivity;Learn+for+beauty+(ฅ´ω`ฅ)" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
 
 <!-- 社交链接 -->
 <p>
   <a href="https://blognas.hwb0307.com"><img src="https://img.shields.io/badge/Blog-blognas.hwb0307.com-blue?style=flat-square&logo=blogger"></a>
   <a href="https://github.com/huangwb8"><img src="https://img.shields.io/github/followers/huangwb8?label=Follow&style=flat-square&logo=github"></a>
+  <a href="https://orcid.org/0000-0003-0159-435X"><img src="https://img.shields.io/badge/ORCID-0000--0003--0159--435X-A6CE39?style=flat-square&logo=ORCID"></a>
+  <a href="https://bsky.app/profile/benszconan.bsky.social"><img src="https://img.shields.io/badge/Bluesky-@benszconan-0285FF?style=flat-square&logo=Bluesky"></a>
   <img src="https://komarev.com/ghpvc/?username=huangwb8&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/github/stars/huangwb8?style=flat-square&color=fefb7b&logo=Undertale" alt="Total Stars"/>
 </p>
 
 </div>
@@ -193,6 +198,9 @@
 
 <div align="center">
 
+<!-- GitHub 3D 贡献图 -->
+[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/huangwb8/huangwb8/master/profile-3d-contrib/profile-night-rainbow.svg)
+
 <!-- GitHub 贡献图 -->
 <img src="https://ghchart.rshah.org/70A5FD/huangwb8" alt="GitHub Contribution Chart" />
 
@@ -203,6 +211,22 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=huangwb8&theme=tokyonight&hide_border=true" />
 
 </div>
+
+---
+
+### 📝 Latest Blog Posts
+
+<details open>
+<summary>点击展开 ...</summary>
+
+<img align='right' src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350" />
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+更多内容直接点击：[https://blognas.hwb0307.com](https://blognas.hwb0307.com)
+
+</details>
 
 ---
 

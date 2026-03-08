@@ -1,0 +1,25 @@
+name: 生成GitHub活动3D版
+
+on:
+  schedule: # 每天 UTC 18:00 (北京时间 02:00) 运行
+    - cron: "0 18 * * *"
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: 1000
+      - name: Commit & Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A .
+          git commit -m "chore: update 3D contribution graph" || exit 0
+          git push
