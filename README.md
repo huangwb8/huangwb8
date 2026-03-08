@@ -72,9 +72,12 @@ Here are a few core principles I live by:
 
 ### 🧰 Tech Stack
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" /<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" /<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" /></div>
+<div style="display: flex; align-items: flex-start;">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" /<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=r,python,latex,md,bash,git,github,githubactions,docker,vscode,wordpress,linux,ai)](https://github.com/huangwb8)
+[![My Skills](https://skillicons.dev/icons?i=r,ai,wordpress,linux,latex,md,python,docker,bash,git,github,githubactions,vscode)](https://github.com/huangwb8)
 
 <div align="center">
 
