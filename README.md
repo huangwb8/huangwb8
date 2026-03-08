@@ -27,7 +27,7 @@ Here are a few core principles I live by:
 
 **Join my QQ Channel — let's talk AI, bioinformatics, and research together!**
 
-<img src="https://raw.githubusercontent.com/huangwb8/ChineseResearchLaTeX/main/logo/qq-channel-01.JPG" width="220" />
+<img src="https://raw.githubusercontent.com/huangwb8/ChineseResearchLaTeX/main/logo/qq-channel-01.JPG" width="350" />
 
 </div>
 
