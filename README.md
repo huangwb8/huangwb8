@@ -81,5 +81,8 @@ Here are a few core principles I live by:
 
 ### 📝 Recent Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 For more content, visit: [https://blognas.hwb0307.com](https://blognas.hwb0307.com)
 
