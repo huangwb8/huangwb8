@@ -36,9 +36,9 @@ Here are a few core principles I live by:
 
 <div align="center">
 
-<img src="https://github-immortality.vercel.app/api?username=huangwb8" width="80%" />
+<img src="https://github-immortality.vercel.app/api?username=huangwb8" width="100%" />
 
-<picture style="width: 80%; display: block;">
+<picture style="width: 100%; display: block;">
   <source
     media="(prefers-color-scheme: dark)"
     srcset="images/breakout-dark.svg"
@@ -47,7 +47,7 @@ Here are a few core principles I live by:
     media="(prefers-color-scheme: light)"
     srcset="images/breakout-light.svg"
   />
-  <img alt="Breakout Game" src="images/breakout-light.svg" style="width: 80%;" />
+  <img alt="Breakout Game" src="images/breakout-light.svg" style="width: 100%;" />
 </picture>
 
 </div>
@@ -79,7 +79,7 @@ Here are a few core principles I live by:
 <div align="center">
 
 <a href="https://raw.githubusercontent.com/huangwb8/huangwb8/master/profile-3d-contrib/profile-night-rainbow.svg">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="github-active" width="80%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="github-active" width="100%" />
 </a>
 
 </div>
