@@ -47,7 +47,7 @@ Here are a few core principles I live by:
     media="(prefers-color-scheme: light)"
     srcset="images/breakout-light.svg"
   />
-  <img alt="Breakout Game" src="images/breakout-light.svg" style="width: 100%;" />
+  <img alt="Breakout Game" src="images/breakout-light.svg" style="width: 80%;" />
 </picture>
 
 </div>
