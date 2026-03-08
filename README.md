@@ -76,9 +76,13 @@ Here are a few core principles I live by:
 
 [![My Skills](https://skillicons.dev/icons?i=r,python,latex,md,bash,git,github,githubactions,docker,vscode,wordpress,linux,ai)](https://github.com/huangwb8)
 
+<div align="center">
+
 <a href="https://raw.githubusercontent.com/huangwb8/huangwb8/master/profile-3d-contrib/profile-night-rainbow.svg">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="github-active" width="80%" />
 </a>
+
+</div>
 
 ### 📝 Recent Blog Posts
 
