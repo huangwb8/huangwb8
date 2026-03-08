@@ -34,6 +34,24 @@ Here are a few core principles I live by:
 [![](https://img.shields.io/badge/Bluesky-@benszconan-0285FF?logo=Bluesky)](https://bsky.app/profile/benszconan.bsky.social)
 
 
+<div align="center">
+
+<img src="https://github-immortality.vercel.app/api?username=huangwb8" width="80%" />
+
+<picture style="width: 80%; display: block;">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" style="width: 100%;" />
+</picture>
+
+</div>
+
 ### 🏊 More Repositories
 
 |     Category     |                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
@@ -58,28 +76,9 @@ Here are a few core principles I live by:
 
 [![My Skills](https://skillicons.dev/icons?i=r,python,latex,md,bash,git,github,githubactions,docker,vscode,wordpress,linux,ai)](https://github.com/huangwb8)
 
-<div align="center">
-
-<img src="https://github-immortality.vercel.app/api?username=huangwb8" width="80%" />
-
-
-<picture style="width: 80%; display: block;">
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" style="width: 100%;" />
-</picture>
-
 <a href="https://raw.githubusercontent.com/huangwb8/huangwb8/master/profile-3d-contrib/profile-night-rainbow.svg">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="github-active" width="80%" />
 </a>
-
-</div>
 
 ### 📝 Recent Blog Posts
 
