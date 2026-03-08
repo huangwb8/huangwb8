@@ -110,7 +110,7 @@
 project_info:
   name: huangwb8
   version: 1.0.0        # 遵循语义化版本规范
-  description: "<div align="center">"
+  description: "GitHub 个人主页仓库，展示技术栈与项目作品"
 ```
 
 ### 版本号命名规则

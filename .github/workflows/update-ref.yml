@@ -1,0 +1,35 @@
+name: 每8个小时更新一次reference
+on:
+  schedule:
+    - cron: '21 */8 * * *' # 定时任务
+  workflow_dispatch: # 手动运行
+
+env: # 设置环境变量
+  TZ: Asia/Shanghai # 时区（设置时区可使页面中的`最近更新时间`使用时区时间）
+
+jobs:
+  build: # 自定义名称
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🚜 拉取最新代码
+        uses: actions/checkout@v3 # 记得使用 v3
+        with:
+          ref: 'main'
+          repository: 'jaywcjlove/reference'
+
+      - name: 🎬 编译静态文件
+        run: |
+          echo -e 'REF_URL=https://wiki.eryajf.net/\nREF_LABEL=二丫讲梵' > .env
+          npm install
+          npm run build
+
+      - name: 🚁 部署到服务器
+        uses: wlixcc/SFTP-Deploy-Action@v1.0
+        with:
+          username: 'root'   #ssh user name
+          port: '2023' # 远程服务器ssh端口，默认22
+          server: 'prod2.eryajf.net' # 远程服务器IP
+          ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }} # 认证服务器秘钥对的私钥
+          local_path: './dist/*'  # 对应我们项目打包后的静态文件路径
+          remote_path: '/data/www/ref.eryajf.net' # 服务器上的路径
+          delete_remote_files: true

@@ -1,0 +1,30 @@
+name: Sync to CNB
+
+on:
+  push:     # 推送代码时触发
+  workflow_dispatch: # 支持手动点击按钮触发（调试神器）
+  schedule:
+    - cron: '0 6 * * *' # 可选：每 6 小时自动同步一次，防止漏掉某些边缘情况
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync to CNB Repository
+        run: |
+          docker run --rm \
+            -v ${{ github.workspace }}:${{ github.workspace }} \
+            -w ${{ github.workspace }} \
+            -e PLUGIN_TARGET_URL="https://cnb.cool/eryajf/eryajf.git" \
+            -e PLUGIN_AUTH_TYPE="https" \
+            -e PLUGIN_USERNAME="cnb" \
+            -e PLUGIN_PASSWORD=${{ secrets.CNB_TOKEN }} \
+            -e PLUGIN_BRANCH="master" \
+            -e PLUGIN_GIT_USER="cnb" \
+            -e PLUGIN_GIT_EMAIL="cnb@cnb.cool" \
+            -e PLUGIN_FORCE="true" \
+            tencentcom/git-sync

@@ -1,225 +1,105 @@
-<div align="center">
-
-<!-- 动态打字效果 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=70A5FD&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Bensz+%F0%9F%91%8B;Bioinformatician+%7C+R+Developer+%7C+Open+Source+Enthusiast;Building+tools+for+research+and+productivity;Learn+for+beauty+(ฅ´ω`ฅ)" alt="Typing SVG" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
-
-<!-- 社交链接 -->
-<p>
-  <a href="https://blognas.hwb0307.com"><img src="https://img.shields.io/badge/Blog-blognas.hwb0307.com-blue?style=flat-square&logo=blogger"></a>
-  <a href="https://github.com/huangwb8"><img src="https://img.shields.io/github/followers/huangwb8?label=Follow&style=flat-square&logo=github"></a>
-  <a href="https://orcid.org/0000-0003-0159-435X"><img src="https://img.shields.io/badge/ORCID-0000--0003--0159--435X-A6CE39?style=flat-square&logo=ORCID"></a>
-  <a href="https://bsky.app/profile/benszconan.bsky.social"><img src="https://img.shields.io/badge/Bluesky-@benszconan-0285FF?style=flat-square&logo=Bluesky"></a>
-  <img src="https://komarev.com/ghpvc/?username=huangwb8&style=flat-square&color=blue" alt="Profile views"/>
-  <img src="https://img.shields.io/github/stars/huangwb8?style=flat-square&color=fefb7b&logo=Undertale" alt="Total Stars"/>
-</p>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧬 [ChineseResearchLaTeX](https://github.com/huangwb8/ChineseResearchLaTeX)
-**国自然 LaTeX 标书模板**
-
-一个专业的 NSFC 申请书 LaTeX 模板，支持：
-- ✅ 完整的标书结构
-- ✅ 自动化编译流程
-- ✅ 丰富的示例和文档
-
-<a href="https://github.com/huangwb8/ChineseResearchLaTeX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=ChineseResearchLaTeX&theme=tokyonight&hide_border=true" />
-</a>
-
-</td>
-<td width="50%">
-
-### 🤖 [skills](https://github.com/huangwb8/skills)
-**Agent Skills 开发流水线**
-
-高质量、可复用的 AI Agent Skills：
-- ✅ 遵循 Agent Skills 开放标准
-- ✅ 跨平台兼容（Claude/Codex/Cursor）
-- ✅ 标准化开发框架
-
-<a href="https://github.com/huangwb8/skills">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=skills&theme=tokyonight&hide_border=true" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 💻 Tech Stack
+### 👋 Hi there
 
 <div align="center">
 
-### Languages & Tools
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&weight=100&size=30&duration=7000&pause=3000&center=true&vCenter=true&width=500&height=60&lines=Learn+for+beauty+(ฅ´ω`ฅ))](https://git.io/typing-svg)
 
-### Development
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Specialization
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-00C853?style=for-the-badge&logo=dna&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=anthropic&logoColor=white)
+<img src="https://cnb.cool/66666/resource/-/git/raw/main/img/hengtiao.gif"
+width="100%"  height="2">
 
 </div>
 
----
+<img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/qmsht.gif?raw=true" width="450" height="390" />
 
-## 📊 GitHub Stats
+我是一名生物信息学家，专注于肿瘤基因组学和临床数据分析研究。在南方医科大学珠江医院普外科工作，致力于将生物信息学方法应用于临床研究，推动精准医学的发展。
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
+作为一名 R 语言开发者和开源爱好者，我相信技术的力量可以推动医学研究的进步。我热衷于开发实用的工具和模板，帮助科研工作者更高效地完成工作，让科研变得更加简单和美好。
 
-<img src="https://github-readme-stats.vercel.app/api?username=huangwb8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+讲几个简单的理念：
 
-</td>
-<td width="50%">
+- 1，**Learn for beauty** - 为美好而学习，保持对知识的热爱和对美的追求，在科研道路上不断前行。
+- 2，人的成长很大程度来源于**持续学习**和**知识分享**。希望自己认真做一个传承者，学到的，内化的，分享的，与人有益，幸甚！
+- 3，我也是一个喜欢交友的人，对待任何一个熟悉的陌生的，都保持开放和友善的态度，也希望借此能够结交更多志同道合的朋友。
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangwb8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+### 🤗 欢迎来访
 
-</td>
-</tr>
-</table>
+>[![](https://img.shields.io/github/stars/huangwb8?color=fefb7b&logo=Undertale)](https://github.com/huangwb8)
+[![](https://img.shields.io/github/followers/huangwb8?color=27da6b&logo=Handshake)](https://github.com/huangwb8?tab=followers)
+[![Huangwb8 HitCount](https://views.whatilearened.today/views/github/huangwb8/huangwb8.svg)](https://github.com/huangwb8)<br>
+>[![Auth](https://img.shields.io/badge/Author-huangwb8-ff69b4.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAADZElEQVR4nO2ZX2iPURjHP/7/aZN/E21DaZvtwoVYyQUuGXLB/LtkLRcUhSJMSVwg3KCUJPJvLmRZtMQFLvwZhUJk/saGLWaYV6eet06n9/3tfd+9531/sW89td9z3vOc8z3nPOc8zzPoQQ+yAnlAA/AbcCzKR2ClTSL7LRNwNPkB5Noi0pggEQeYbovIh4SJLLBBojfwK2EiVTaIjEyYhANsskGkNAUi+2wQmZECkRM2iCxMgUi9DSKrxPhS7GOZjHXPhvGtYlwdMduYKWO9tmH8oBgvxj6KZawOoFfcxk+L8RzsI0fzkyFhO28EvqXg0FHlK1DtReRzFkzOCSmfvIhczIKJOSHlmheRgcAK4E4WTNDpQp4Ba4P4zxRgO3ArgSQqqDQDx4AKCWBDYwSwRTP4JWECG4CpQB9iwCTNsBsJl8srvxk4CtQBN4Enkre0GKQ7RaekCXgAXAcuAHuB1bLaZcAgrd+2uK78ai0PsfLSBshG70u9IDJmyUq2AYvlbD5N4Dg9l/EnArdFV9sdIlfEiLrNzFAlqPwE2kP2OaKNlyfH8Q9QFJVIixgepukqIuTdRRI3Be1TaczjnOgXRSXyTgwUarrBIVb4htbvcMA+nR7+UCdtc6MSOS8G9hj6+gjlnHEBd+WuMVaZ9FMyJiqRydrgB4B80VcFmFBtxALfFm3nlwPv48rfK7WoWDkc8jgpYq0eE/kOnAGG+4RBh3z6qTGOyzfIJeG2nQL6EQMmaEaTgtNdv+jKcFJwbI33XxEpAM76+IArrXIbFqVFpE0MuzeXF4nmEI9ecwZbhVo6GzsaxLhnniw74YQUVdDwwjppv2yzaPbIJ7HJdJz8RIX5JgYAL6V9vg0ifYEXMsAaj3Z3cpfkmPmhQAs5vHxgh+gbbdS0XMyTQdrkbdHhTiwTCdMHTCLl8hCqeGsalnFSO2JDNb3XxOZINqhkttFmfq8W4I1PbGcFuVr21qCloe7EarRvmzT9K01fYxAZJVmgA1yNKxwh4NF4q0Wr+UZs5JIxndskoVLoEskI1e/HRu6TCEpklR1ZebPcqk/YT9cu1UL190NgNCmhQGpfTjelLo2dMNEf2BkylXVF7eL6qAU3WyiVvCHIv7A7pBY2nizGWGC3FOr0XeoQZ96VIcbqAf8K/gLNGaTJ3vwbFgAAAABJRU5ErkJggg==)](https://github.com/huangwb8)
+[![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-Bensz%20Blog-d7b1bf?logo=Blogger)](https://blognas.hwb0307.com)
+[![](https://img.shields.io/badge/ORCID-0000--0003--0159--435X-71f9fe?logo=ORCID)](https://orcid.org/0000-0003-0159-435X)
+[![](https://img.shields.io/badge/Bluesky-@benszconan-0285FF?logo=Bluesky)](https://bsky.app/profile/benszconan.bsky.social)
 
-<!-- GitHub 奖杯 -->
-<img src="https://github-profile-trophy.vercel.app/?username=huangwb8&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 
-</div>
+### 🧰 语言工具
 
----
+><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" /></div>
 
-## 🌈 Research Projects
+[![My Skills](https://skillicons.dev/icons?i=r,python,latex,md,bash,git,github,githubactions,docker,vscode,vim,wordpress,linux,mysql,sqlite,ai,obsidian,aws)](https://github.com/huangwb8)
 
-<table>
-<tr>
-<td width="33%">
-<a href="https://github.com/huangwb8/ChineseResearchLaTeX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=ChineseResearchLaTeX&theme=vue&hide_border=true" />
-</a>
-</td>
-<td width="33%">
-<a href="https://github.com/huangwb8/GSClassifier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=GSClassifier&theme=vue&hide_border=true" />
-</a>
-</td>
-<td width="33%">
-<a href="https://github.com/huangwb8/CCS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=CCS&theme=vue&hide_border=true" />
-</a>
-</td>
-</tr>
-</table>
 
-## 🚤 Blogger Tools
+### 💻 Stats
 
-<table>
-<tr>
-<td width="33%">
-<a href="https://github.com/huangwb8/m2w">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=m2w&theme=buefy&hide_border=true" />
-</a>
-</td>
-<td width="33%">
-<a href="https://github.com/huangwb8/bloghelper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=bloghelper&theme=buefy&hide_border=true" />
-</a>
-</td>
-<td width="33%">
-<a href="https://github.com/huangwb8/random-image">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=random-image&theme=buefy&hide_border=true" />
-</a>
-</td>
-</tr>
-</table>
-
-## 📌 Applications
-
-<table>
-<tr>
-<td width="33%">
-<a href="https://github.com/huangwb8/skills">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=skills&theme=radical&hide_border=true" />
-</a>
-</td>
-<td width="33%">
-<a href="https://github.com/huangwb8/vibe-teaching">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=vibe-teaching&theme=radical&hide_border=true" />
-</a>
-</td>
-<td width="33%">
-<a href="https://github.com/huangwb8/VibeNotification">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=VibeNotification&theme=radical&hide_border=true" />
-</a>
-</td>
-</tr>
-<tr>
-<td width="33%">
-<a href="https://github.com/huangwb8/AutoSaleVPS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=AutoSaleVPS&theme=radical&hide_border=true" />
-</a>
-</td>
-<td width="33%">
-<a href="https://github.com/huangwb8/GRE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=GRE&theme=radical&hide_border=true" />
-</a>
-</td>
-<td width="33%">
-<a href="https://github.com/huangwb8/Grouper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangwb8&repo=Grouper&theme=radical&hide_border=true" />
-</a>
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<!-- GitHub 3D 贡献图 -->
-[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/huangwb8/huangwb8/master/profile-3d-contrib/profile-night-rainbow.svg)
-
-<!-- GitHub 贡献图 -->
-<img src="https://ghchart.rshah.org/70A5FD/huangwb8" alt="GitHub Contribution Chart" />
-
-<!-- 活动图表 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=huangwb8&theme=tokyo-night&hide_border=true&area=true" />
-
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=huangwb8&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-### 📝 Latest Blog Posts
+<a href="https://trendshift.io/developers" target="_blank"><img src="https://trendshift.io/api/badge/developers/huangwb8" alt="huangwb8 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 <details open>
 <summary>点击展开 ...</summary>
 
-<img align='right' src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350" />
+<div align="center">
+
+![](https://github-immortality.vercel.app/api?username=huangwb8)
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
+[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/huangwb8/huangwb8/master/profile-3d-contrib/profile-night-rainbow.svg)
+
+
+</div>
+
+</details>
+
+### 🏊 更多仓库
+
+<details open>
+<summary>点击展开 ...</summary>
+
+|                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
+| :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
+| [ChineseResearchLaTeX](https://github.com/huangwb8/ChineseResearchLaTeX) | ![](https://img.shields.io/github/stars/huangwb8/ChineseResearchLaTeX?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/ChineseResearchLaTeX?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🎓 中国科研常用LaTeX模板集 |
+| [skills](https://github.com/huangwb8/skills) | ![](https://img.shields.io/github/stars/huangwb8/skills?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/huangwb8/skills?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🤖 Agent Skills开发流水线  |
+| [m2w](https://github.com/huangwb8/m2w) | ![](https://img.shields.io/github/stars/huangwb8/m2w?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/m2w?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📝 Markdown to WordPress自动化工具  |
+| [GSClassifier](https://github.com/huangwb8/GSClassifier) | ![](https://img.shields.io/github/stars/huangwb8/GSClassifier?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/GSClassifier?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧬 基因集分类器  |
+| [bloghelper](https://github.com/huangwb8/bloghelper) | ![](https://img.shields.io/github/stars/huangwb8/bloghelper?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/huangwb8/bloghelper?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🛠️ WordPress博客资源工具  |
+| [luckyBase](https://github.com/huangwb8/luckyBase) | ![](https://img.shields.io/github/stars/huangwb8/luckyBase?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/luckyBase?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📦 R语言生物信息学工具包  |
+| [CCS](https://github.com/huangwb8/CCS) | ![](https://img.shields.io/github/stars/huangwb8/CCS?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/CCS?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧬 癌症细胞系分类器  |
+| [random-image](https://github.com/huangwb8/random-image) | ![](https://img.shields.io/github/stars/huangwb8/random-image?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/random-image?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🎨 随机图片API服务  |
+| [vibe-teaching](https://github.com/huangwb8/vibe-teaching) | ![](https://img.shields.io/github/stars/huangwb8/vibe-teaching?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/vibe-teaching?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📚 Vibe教学资源  |
+| [VibeNotification](https://github.com/huangwb8/VibeNotification) | ![](https://img.shields.io/github/stars/huangwb8/VibeNotification?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/VibeNotification?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🔔 Vibe通知系统  |
+| [AutoSaleVPS](https://github.com/huangwb8/AutoSaleVPS) | ![](https://img.shields.io/github/stars/huangwb8/AutoSaleVPS?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/AutoSaleVPS?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 💰 VPS自动销售系统  |
+| [GRE](https://github.com/huangwb8/GRE) | ![](https://img.shields.io/github/stars/huangwb8/GRE?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/GRE?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📖 GRE学习资源  |
+| [Grouper](https://github.com/huangwb8/Grouper) | ![](https://img.shields.io/github/stars/huangwb8/Grouper?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/Grouper?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 👥 分组管理工具  |
+
+</details>
+
+
+### 📝 博客最近更新
+
+<details open>
+<summary>点击展开 ...</summary>
+
+<img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" />
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -227,18 +107,3 @@
 更多内容直接点击：[https://blognas.hwb0307.com](https://blognas.hwb0307.com)
 
 </details>
-
----
-
-<div align="center">
-
-### 💬 Get in Touch
-
-[![Blog](https://img.shields.io/badge/Blog-blognas.hwb0307.com-blue?style=for-the-badge&logo=blogger)](https://blognas.hwb0307.com)
-[![GitHub](https://img.shields.io/badge/GitHub-huangwb8-181717?style=for-the-badge&logo=github)](https://github.com/huangwb8)
-
-**Thanks for visiting! 😊**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</div>
