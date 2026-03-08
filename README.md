@@ -23,6 +23,14 @@ Here are a few core principles I live by:
 - Personal growth largely stems from **continuous learning** and **knowledge sharing**. I aspire to be a dedicated knowledge bearer—what I learn, internalize, and share should benefit others. That would be my greatest fortune!
 - I am also someone who enjoys making friends. I maintain an open and friendly attitude toward everyone, whether familiar or new, hoping to connect with more like-minded individuals.
 
+<div align="center">
+
+**Join my QQ Channel — let's talk AI, bioinformatics, and research together!**
+
+<img src="https://raw.githubusercontent.com/huangwb8/ChineseResearchLaTeX/main/logo/qq-channel-01.JPG" width="220" />
+
+</div>
+
 ### 🤗 Welcome
 
 [![](https://img.shields.io/github/stars/huangwb8?color=fefb7b&logo=Undertale)](https://github.com/huangwb8)
