@@ -10,7 +10,8 @@ width="100%"  height="2">
 </div>
 
 <!-- <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/qmsht.gif?raw=true" width="450" height="390" /> -->
-<img align='right' src="https://chevereto.hwb0307.com/images/2023/04/28/zzmx-71.jpg" width="450"/>
+<!-- <img align='right' src="https://chevereto.hwb0307.com/images/2023/04/28/zzmx-71.jpg" width="450"/> -->
+<img align='right' src="https://blogcdn.hwb0307.top/images/zzmx-71.jpg" width="450"/>
 
 I am a bioinformatician specializing in cancer genomics and clinical data analysis. Working at the Department of General Surgery, Zhujiang Hospital, Southern Medical University, I am dedicated to applying bioinformatics methods to clinical research and advancing precision medicine.
 
