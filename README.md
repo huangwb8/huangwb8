@@ -19,9 +19,9 @@ As an R developer and open-source enthusiast, I believe in the power of technolo
 
 Here are a few core principles I live by:
 
-- 1. **Learn for beauty** - Learning for the sake of beauty, maintaining a love for knowledge and pursuit of elegance, continuously advancing on the path of scientific research.
-- 2. Personal growth largely stems from **continuous learning** and **knowledge sharing**. I aspire to be a dedicated knowledge bearer—what I learn, internalize, and share should benefit others. That would be my greatest fortune!
-- 3. I am also someone who enjoys making friends. I maintain an open and friendly attitude toward everyone, whether familiar or new, hoping to connect with more like-minded individuals.
+- **Learn for beauty** - Learning for the sake of beauty, maintaining a love for knowledge and pursuit of elegance, continuously advancing on the path of scientific research.
+- Personal growth largely stems from **continuous learning** and **knowledge sharing**. I aspire to be a dedicated knowledge bearer—what I learn, internalize, and share should benefit others. That would be my greatest fortune!
+- I am also someone who enjoys making friends. I maintain an open and friendly attitude toward everyone, whether familiar or new, hoping to connect with more like-minded individuals.
 
 ### 🤗 Welcome
 
@@ -38,7 +38,7 @@ Here are a few core principles I live by:
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" /<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" /<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" /></div>
 
-[![My Skills](https://skillicons.dev/icons?i=r,python,latex,md,bash,git,github,githubactions,docker,vscode,wordpress,linux,,ai)](https://github.com/huangwb8)
+[![My Skills](https://skillicons.dev/icons?i=r,python,latex,md,bash,git,github,githubactions,docker,vscode,wordpress,linux,ai)](https://github.com/huangwb8)
 
 <details open>
 <summary>Click to expand ...</summary>
