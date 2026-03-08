@@ -17,11 +17,7 @@ I am a bioinformatician specializing in cancer genomics and clinical data analys
 
 As an R developer and open-source enthusiast, I believe in the power of technology to drive medical research forward. I am passionate about developing practical tools and templates that help researchers work more efficiently, making scientific research simpler and more beautiful.
 
-Here are a few core principles I live by:
 
-- **Learn for beauty** - Learning for the sake of beauty, maintaining a love for knowledge and pursuit of elegance, continuously advancing on the path of scientific research.
-- Personal growth largely stems from **continuous learning** and **knowledge sharing**. I aspire to be a dedicated knowledge bearer—what I learn, internalize, and share should benefit others. That would be my greatest fortune!
-- I am also someone who enjoys making friends. I maintain an open and friendly attitude toward everyone, whether familiar or new, hoping to connect with more like-minded individuals.
 
 I am also an active blogger at [blognas.hwb0307.com](https://blognas.hwb0307.com/map), where I share knowledge at the intersection of technology and biomedical research. My blog covers:
 
@@ -30,7 +26,11 @@ I am also an active blogger at [blognas.hwb0307.com](https://blognas.hwb0307.com
 - **Biomedical Research**: Frontier updates in cancer genomics (74+ issues published), literature reviews, and academic discussions
 - **Practical Tools**: WordPress optimization, image hosting, RSS aggregation, and automation workflows
 
-Following the principle of "Learn For Beauty", I focus on systematic learning paths and hands-on practices, helping researchers and tech enthusiasts build their own infrastructure and stay updated with cutting-edge developments.
+Here are a few core principles I live by:
+
+- **Learn for beauty** - Learning for the sake of beauty, maintaining a love for knowledge and pursuit of elegance, continuously advancing on the path of scientific research.
+- Personal growth largely stems from **continuous learning** and **knowledge sharing**. I aspire to be a dedicated knowledge bearer—what I learn, internalize, and share should benefit others. That would be my greatest fortune!
+- I am also someone who enjoys making friends. I maintain an open and friendly attitude toward everyone, whether familiar or new, hoping to connect with more like-minded individuals.
 
 <div align="center">
 
