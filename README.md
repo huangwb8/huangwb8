@@ -23,7 +23,7 @@ I am also an active blogger at [blognas.hwb0307.com](https://blognas.hwb0307.com
 
 - **Technical Tutorials**: Linux fundamentals, Docker containerization, NAS setup, and self-hosted services
 - **AI & Programming**: AI tools evaluation, LLM applications, and development environment configurations
-- **Biomedical Research**: Frontier updates in cancer genomics (74+ issues published), literature reviews, and academic discussions
+- **Biomedical Research**: Frontier updates in cancer genomics, literature reviews, and academic discussions
 - **Practical Tools**: WordPress optimization, image hosting, RSS aggregation, and automation workflows
 
 Here are a few core principles I live by:
