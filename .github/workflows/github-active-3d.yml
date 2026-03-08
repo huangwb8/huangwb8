@@ -1,9 +1,9 @@
-name: 生成GitHub活动3D版
+name: Generate GitHub 3D Contribution Graph
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule: # Run daily at 18:00 UTC (02:00 Beijing Time)
     - cron: "0 18 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # Allow manual trigger
 
 jobs:
   build:
@@ -21,5 +21,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A .
-          git commit -m "generated"
+          git commit -m "chore: update 3D contribution graph" || echo "No changes to commit"
           git push
