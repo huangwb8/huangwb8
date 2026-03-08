@@ -34,6 +34,24 @@ Here are a few core principles I live by:
 [![](https://img.shields.io/badge/Bluesky-@benszconan-0285FF?logo=Bluesky)](https://bsky.app/profile/benszconan.bsky.social)
 
 
+### 🏊 More Repositories
+
+|                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
+| :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
+| [ChineseResearchLaTeX](https://github.com/huangwb8/ChineseResearchLaTeX) | ![](https://img.shields.io/github/stars/huangwb8/ChineseResearchLaTeX?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/ChineseResearchLaTeX?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🎓 中国科研常用LaTeX模板集 |
+| [skills](https://github.com/huangwb8/skills) | ![](https://img.shields.io/github/stars/huangwb8/skills?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/huangwb8/skills?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🤖 Agent Skills开发流水线  |
+| [m2w](https://github.com/huangwb8/m2w) | ![](https://img.shields.io/github/stars/huangwb8/m2w?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/m2w?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📝 Markdown to WordPress自动化工具  |
+| [GSClassifier](https://github.com/huangwb8/GSClassifier) | ![](https://img.shields.io/github/stars/huangwb8/GSClassifier?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/GSClassifier?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧬 基因集分类器  |
+| [bloghelper](https://github.com/huangwb8/bloghelper) | ![](https://img.shields.io/github/stars/huangwb8/bloghelper?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/huangwb8/bloghelper?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🛠️ WordPress博客资源工具  |
+| [luckyBase](https://github.com/huangwb8/luckyBase) | ![](https://img.shields.io/github/stars/huangwb8/luckyBase?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/luckyBase?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📦 R语言生物信息学工具包  |
+| [CCS](https://github.com/huangwb8/CCS) | ![](https://img.shields.io/github/stars/huangwb8/CCS?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/CCS?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧬 癌症细胞系分类器  |
+| [random-image](https://github.com/huangwb8/random-image) | ![](https://img.shields.io/github/stars/huangwb8/random-image?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/random-image?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🎨 随机图片API服务  |
+| [vibe-teaching](https://github.com/huangwb8/vibe-teaching) | ![](https://img.shields.io/github/stars/huangwb8/vibe-teaching?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/vibe-teaching?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📚 Vibe教学资源  |
+| [VibeNotification](https://github.com/huangwb8/VibeNotification) | ![](https://img.shields.io/github/stars/huangwb8/VibeNotification?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/VibeNotification?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🔔 Vibe通知系统  |
+| [AutoSaleVPS](https://github.com/huangwb8/AutoSaleVPS) | ![](https://img.shields.io/github/stars/huangwb8/AutoSaleVPS?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/AutoSaleVPS?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 💰 VPS自动销售系统  |
+| [GRE](https://github.com/huangwb8/GRE) | ![](https://img.shields.io/github/stars/huangwb8/GRE?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/GRE?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📖 GRE学习资源  |
+| [Grouper](https://github.com/huangwb8/Grouper) | ![](https://img.shields.io/github/stars/huangwb8/Grouper?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/Grouper?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 👥 分组管理工具  |
+
 ### 🧰 Tech Stack
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" /<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" /<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" /></div>
@@ -65,30 +83,6 @@ Here are a few core principles I live by:
 </div>
 
 </details>
-
-### 🏊 More Repositories
-
-<details open>
-<summary>Click to expand ...</summary>
-
-|                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
-| :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
-| [ChineseResearchLaTeX](https://github.com/huangwb8/ChineseResearchLaTeX) | ![](https://img.shields.io/github/stars/huangwb8/ChineseResearchLaTeX?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/ChineseResearchLaTeX?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🎓 中国科研常用LaTeX模板集 |
-| [skills](https://github.com/huangwb8/skills) | ![](https://img.shields.io/github/stars/huangwb8/skills?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/huangwb8/skills?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🤖 Agent Skills开发流水线  |
-| [m2w](https://github.com/huangwb8/m2w) | ![](https://img.shields.io/github/stars/huangwb8/m2w?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/m2w?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📝 Markdown to WordPress自动化工具  |
-| [GSClassifier](https://github.com/huangwb8/GSClassifier) | ![](https://img.shields.io/github/stars/huangwb8/GSClassifier?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/GSClassifier?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧬 基因集分类器  |
-| [bloghelper](https://github.com/huangwb8/bloghelper) | ![](https://img.shields.io/github/stars/huangwb8/bloghelper?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/huangwb8/bloghelper?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🛠️ WordPress博客资源工具  |
-| [luckyBase](https://github.com/huangwb8/luckyBase) | ![](https://img.shields.io/github/stars/huangwb8/luckyBase?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/luckyBase?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📦 R语言生物信息学工具包  |
-| [CCS](https://github.com/huangwb8/CCS) | ![](https://img.shields.io/github/stars/huangwb8/CCS?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/CCS?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧬 癌症细胞系分类器  |
-| [random-image](https://github.com/huangwb8/random-image) | ![](https://img.shields.io/github/stars/huangwb8/random-image?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/random-image?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🎨 随机图片API服务  |
-| [vibe-teaching](https://github.com/huangwb8/vibe-teaching) | ![](https://img.shields.io/github/stars/huangwb8/vibe-teaching?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/vibe-teaching?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📚 Vibe教学资源  |
-| [VibeNotification](https://github.com/huangwb8/VibeNotification) | ![](https://img.shields.io/github/stars/huangwb8/VibeNotification?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/VibeNotification?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🔔 Vibe通知系统  |
-| [AutoSaleVPS](https://github.com/huangwb8/AutoSaleVPS) | ![](https://img.shields.io/github/stars/huangwb8/AutoSaleVPS?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/AutoSaleVPS?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 💰 VPS自动销售系统  |
-| [GRE](https://github.com/huangwb8/GRE) | ![](https://img.shields.io/github/stars/huangwb8/GRE?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/GRE?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📖 GRE学习资源  |
-| [Grouper](https://github.com/huangwb8/Grouper) | ![](https://img.shields.io/github/stars/huangwb8/Grouper?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/huangwb8/Grouper?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 👥 分组管理工具  |
-
-</details>
-
 
 ### 📝 Recent Blog Posts
 
