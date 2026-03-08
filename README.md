@@ -41,7 +41,8 @@ width="100%"  height="2">
 
 ### 💻 Stats
 
-<a href="https://trendshift.io/developers" target="_blank"><img src="https://trendshift.io/api/badge/developers/huangwb8" alt="huangwb8 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+[![GitHub Stars](https://img.shields.io/github/stars/huangwb8?style=social&label=Total%20Stars)](https://github.com/huangwb8)
+[![GitHub Followers](https://img.shields.io/github/followers/huangwb8?style=social&label=Followers)](https://github.com/huangwb8?tab=followers)
 
 <details open>
 <summary>点击展开 ...</summary>
