@@ -36,7 +36,7 @@ Here are a few core principles I live by:
 
 **Join Bensz Channel — let's talk AI, bioinformatics, and research together!**
 
-🌐 [channel.hwb0307.com](https://channel.hwb0307.com) | 📡 RSS Supported
+🌐 [channel.hwb0307.com](https://channel.hwb0307.com) | 📡 [RSS](https://channel.hwb0307.com/rss)
 
 </div>
 
