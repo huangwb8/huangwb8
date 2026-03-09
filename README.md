@@ -34,9 +34,9 @@ Here are a few core principles I live by:
 
 <div align="center">
 
-**Join my QQ Channel — let's talk AI, bioinformatics, and research together!**
+**Join Bensz Channel — let's talk AI, bioinformatics, and research together!**
 
-<img src="https://raw.githubusercontent.com/huangwb8/ChineseResearchLaTeX/main/logo/qq-channel-01.JPG" width="350" />
+🌐 [channel.hwb0307.com](https://channel.hwb0307.com) | 📡 RSS Supported
 
 </div>
 

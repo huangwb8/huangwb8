@@ -6,6 +6,10 @@
 
 ## [Unreleased]
 
+### Changed（变更）
+
+- 修改了 README.md 中的社区频道信息：从 QQ 频道更新为 Bensz Channel (https://channel.hwb0307.com)，并添加了 RSS 支持说明
+
 ## [1.0.0] - 2026-03-08
 
 ### Added（新增）
