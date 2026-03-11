@@ -52,11 +52,9 @@ width="100%"  height="2">
 <!-- <img align='right' src="https://chevereto.hwb0307.com/images/2023/04/28/zzmx-71.jpg" width="450"/> -->
 <img align='right' src="https://blogcdn.hwb0307.top/images/zzmx-71.jpg" width="450"/>
 
-I am a bioinformatician specializing in cancer genomics and clinical data analysis. Working at the Department of General Surgery, Zhujiang Hospital, Southern Medical University, I am dedicated to applying bioinformatics methods to clinical research and advancing precision medicine.
+I am a gastrointestinal surgeon and bioinformatician specializing in cancer genomics and clinical data analysis. Working at the Department of General Surgery, Zhujiang Hospital, Southern Medical University, I am dedicated to applying bioinformatics methods to clinical research and advancing precision medicine.
 
 As an R developer and open-source enthusiast, I believe in the power of technology to drive medical research forward. I am passionate about developing practical tools and templates that help researchers work more efficiently, making scientific research simpler and more beautiful.
-
-
 
 I am also an active blogger at [blognas.hwb0307.com](https://blognas.hwb0307.com/map), where I share knowledge at the intersection of technology and biomedical research. My blog covers:
 
