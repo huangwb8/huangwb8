@@ -145,17 +145,17 @@ Here are a few core principles I live by:
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🦍 [AI入门系列 Vibe Coding实战](https://blognas.hwb0307.com/ai/7035) 
+- 🦍 [Docker系列 Bensz Channel：构建AI时代Up主和粉丝互动的高效平台](https://blognas.hwb0307.com/linux/docker/7053) 
 
-- 🦄 [AI入门系列 一种实用的Prompt工程： Agent Skill](https://blognas.hwb0307.com/ai/7028) 
+- 🦄 [AI入门系列 Vibe Coding实战](https://blognas.hwb0307.com/ai/7035) 
 
-- 🥷 [AI入门系列 如何获得vibe coding相关的AI算力](https://blognas.hwb0307.com/ai/7008) 
+- 🥷 [AI入门系列 一种实用的Prompt工程： Agent Skill](https://blognas.hwb0307.com/ai/7028) 
 
-- 🚦 [AI入门系列 配置vibe coding工具： VSCode+Claude Code+Codex](https://blognas.hwb0307.com/ai/7003) 
+- 🚦 [AI入门系列 如何获得vibe coding相关的AI算力](https://blognas.hwb0307.com/ai/7008) 
 
-- 🐵 [AI入门系列 Mac：AI时代不容忽视的设备](https://blognas.hwb0307.com/ai/6994) 
+- 🐵 [AI入门系列 配置vibe coding工具： VSCode+Claude Code+Codex](https://blognas.hwb0307.com/ai/7003) 
 
-- 💪 [开源项目与平台应用之争：OpenAI Prism vs. ChineseResearchLaTeX](https://blognas.hwb0307.com/other/6990) 
+- 💪 [AI入门系列 Mac：AI时代不容忽视的设备](https://blognas.hwb0307.com/ai/6994) 
 <!-- BLOG-POST-LIST:END -->
 
 For more content, visit: [https://blognas.hwb0307.com](https://blognas.hwb0307.com)
