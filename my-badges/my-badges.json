@@ -1,0 +1,254 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/huangwb8/bioinf/commit/a59ce0a0f109c5df1b55de51c188b45e22287f6d\"><strong>a</strong>59ce0a0f109c5df1b55de51c188b45e22287f6d</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/huangwb8/luckyExperiment/commit/abee56342d826b68e812ef5e386ff90049d12d53\"><strong>ab</strong>ee56342d826b68e812ef5e386ff90049d12d53</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/huangwb8/bensz-channel/commit/abcc12af502de8cf904372f2672b08e48a4a0430\"><strong>abc</strong>c12af502de8cf904372f2672b08e48a4a0430</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/cf824d2bfa064c0fb94e342d4ccaf459835b0a77\">cf824d2</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/d6280048934d2c83a2f635f892cab1bee77cf43e\">d628004</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/bdcc0394ef06784cf88de7b4e2344f8c7ab0ef46\">bdcc039</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/34880e6427223a4c10c9510aec37ce2a316b9ed6\">34880e6</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/8efb90b396f2e27e46a9609fca6923c571c2cd12\">8efb90b</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/8df6ebfb4bf30ba18da51695999909b36c2fb7d5\">8df6ebf</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/huangwb8/huangwb8/commit/410aa84093758acafef2f0b8fa986bd45f9810fa\">410aa84093758a<strong>cafe</strong>f2f0b8fa986bd45f9810fa</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/7ca478ec7736d673b9216f51b94e0e67c7efefa6\">7ca478e</a>: chore(release): 发布 v1.28.1\n\n- 新增 DevTools skill 回归测试脚本，覆盖最新 CLI 能力与诊断返回码\n- 优化 RSS 按钮复制提示样式，使用独立 Toast 提示框提升用户体验\n- 修复 DevTools doctor 在 heartbeat 失败时仍报告成功的问题\n- 修复认证测试对旧登录页文案的过时断言\n- 更新测试脚本，将 DevTools skill 回归纳入统一验证闭环",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/fb6d72814590551c5e0506fc7ec4232446eb9654\">fb6d728</a>\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/c113e7199706242fba8e0cd5a4c177608aaffccf\">c113e71</a>\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/eac358f86235d7e19afb74a106ce1cd2687b80b2\">eac358f</a>\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/7eca4605ea3d3a1f9be615823735d0f0c8fdffac\">7eca460</a>\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/3eb9c6986664a88f33d6ee8d417da3d3406f74fc\">3eb9c69</a>\n- <a href=\"https://github.com/huangwb8/CCS/commit/cc7d3a9058be008cb10ab7ff63df0d24e7eb9932\">cc7d3a9</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" 3 times.",
+    "body": "- <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX/commit/95c97370531d4dead24054248e75eb64ca1c83fe\">95c97370531d4<strong>dead</strong>24054248e75eb64ca1c83fe</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/dc0c07e7d2046b1140dead2cf34e53db6ccd3709\">dc0c07e7d2046b1140<strong>dead</strong>2cf34e53db6ccd3709</a>\n- <a href=\"https://github.com/huangwb8/bioinf/commit/debdd8665d7d7303ca5b4d77da1381c7eddead28\">debdd8665d7d7303ca5b4d77da1381c7ed<strong>dead</strong>28</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/1b851c4286e9ccf4b7f96476ac01c12b6bc58f0d\">1b851c4</a>\n- <a href=\"https://github.com/huangwb8/m2w/commit/3dd67f41e37bbbd2114932a8a726290fc2e8c129\">3dd67f4</a>\n- <a href=\"https://github.com/huangwb8/m2w/commit/f855f1b19330fdd61333c46cacc29ee6adc4c508\">f855f1b</a>\n- <a href=\"https://github.com/huangwb8/m2w/commit/b3cd54f15ab8be2e0928237411279f7542eda46c\">b3cd54f</a>\n- <a href=\"https://github.com/huangwb8/m2w/commit/8d9aa5f80a2a4a4ced18b37f34e5f67b8478001a\">8d9aa5f</a>\n- <a href=\"https://github.com/huangwb8/m2w/commit/2451556393642e2f579232c9865de8c8c7ae1f26\">2451556</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/3de41e62aa8135673f2dd80ca5443a1a37f58fa3\">3de41e6</a>\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/e4c7120424b879a6ea5a3b1f742fedb5700939fe\">e4c7120</a>\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/ac7eb292755cbd37bb43752f551be7a94b4be4e6\">ac7eb29</a>\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/93b357532308855efb9015269a14edfc1398519a\">93b3575</a>\n- <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX/commit/7c71ded9caafaa498badd7bc8f1d7b79587abc9a\">7c71ded</a>\n- <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX/commit/720de567c8ef051472b6a213352c720ddeaab43b\">720de56</a>\n- <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX/commit/a5be7ab826281a3461c0ff4a23be6181991fe0c1\">a5be7ab</a>\n- <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX/commit/175c0e318693e72b925c65512f7d25686b3f4930\">175c0e3</a>\n- <a href=\"https://github.com/huangwb8/m2w/commit/c6a7765715db302cc21cee42acf02409c4dd6132\">c6a7765</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 2326 times)\n2. update (used 878 times)\n3. readme.md (used 325 times)\n4. claude (used 156 times)\n5. co-authored-by: (used 150 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/e9ae55b1ebe97de98e3602c2cdd28fba23feaf01\">e9ae55b</a>: fix(mobile): 修复移动端频道切换抽屉的渲染和交互问题\n\n- 将抽屉从粘性头部内移到页面根层，避免移动端浏览器固定层渲染异常\n- 统一抽屉状态管理，移除易导致双触发的 touchend 监听\n- 补充 CSS isolation 和 overscroll-behavior 属性，提升移动端层叠稳定性\n- 新增回归测试锁定抽屉必须渲染在 header 之外\n- 更新项目版本号至 1.28.3\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/d90c352090e20afa3badfda223bfb9381142ddd8\">d90c352</a>: fix: 修复文档和工作流中 config.yaml 的过时引用\n\n- 更新 README.md 版本号管理章节，将 config.yaml 路径更正为 app/config.toml\n- 更新 GitHub Actions 工作流名称和提示信息，从 config.yaml 改为 config.toml\n- 修正 README.md 中 Docker 镜像发布时间描述，从\"每 12 小时\"更正为\"每天北京时间 02:00\"\n- 更新 docs/version-management.md 文档中的所有过时引用\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/7a5648ab1f09b2ffdaae59a0f807cebc20ba7b9f\">7a5648a</a>: fix(style): 修复夜间模式样式显示问题\n\n- 统一补齐深色主题变量与组件状态色的深色覆盖\n- 优化登录页在夜间模式下的高对比深色视觉\n- 改进 HTML 压缩逻辑以保护 script 和 style 标签内容\n- 新增夜间模式样式回归测试锁定关键 dark override",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/VibeNotification/commit/dc2ddb4481281cd3cfb4b276c6e756832ada6e3b\">dc2ddb4</a>: fixe: claude code会话结束时无法发送通知。\noptimize: codex的agent.md。\n- <a href=\"https://github.com/huangwb8/VibeNotification/commit/d382fd003f54bc32f577d14a4974ad336b266ef9\">d382fd0</a>: fix: claude code的工具调用结束后也会发送系统通知的bug。",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/skills/commit/feeb9fa769647dfb88698d92d59d2b0c5c2778cd\">feeb9fa</a>\n- <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX/commit/d46f513353859d59cb9ca011c47068efb952abbc\">d46f513</a>\n- <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX/commit/7fb6ff8c3612e6c7e30af89982acdde03966fc34\">7fb6ff8</a>\n- <a href=\"https://github.com/huangwb8/skills/commit/3e8d093d2f89ad9733c7e1188f2f7395bd1e5383\">3e8d093</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/4a0d1fdf48320f7201656df020895ab2264637db\">4a0d1fd</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/404b50c598a3a87b42ca7edf7d8dd3038e955b1d\">404b50c</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/4d8208270123ddd895d50672838065439a4963b3\">4d82082</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/97e4ea477fa160287b3d21d14acb9e42189d17cd\">97e4ea4</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/6482c6c91627d205c8db99dd2bc46d10c9b4ef9f\">6482c6c</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/bdef5f3a7b24e04c419a55374d57628f433eb762\">bdef5f3</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "leap-day",
+    "tier": 0,
+    "desc": "Happy February 29th! I committed on a Leap Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/f4aab529458aea0a249be5b1d4626025ca16ce26\">f4aab52</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/cc1c98a42fe2327db325ef92773ea13875280130\">cc1c98a</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/aac427afd10d939cb5c2df39f3d9d9bf7670bb74\">aac427a</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/a307511518e65ae7025c6184e0b439b002b26259\">a307511</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/b831b8256a714e500842a5ecd42bb38a2a08cfdf\">b831b82</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/ac09abae9ae8b621aad035b589d9a0328ca865f5\">ac09aba</a>",
+    "image": "https://my-badges.github.io/my-badges/leap-day.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/AutoSaleVPS/commit/51090d2e69bca28b5db7a7c2cf42f7d7e0c435cb\">51090d2</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/AutoSaleVPS/commit/51090d2e69bca28b5db7a7c2cf42f7d7e0c435cb\">51090d2</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/16231845656ed4b0fcb8801f35a48fd6dd994f55\">1623184</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/9ad6b59b840999a06d8c4207f27a03ba967be77d\">9ad6b59</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/cac2fdffb4770e26afb329bbf22925be8f4602cd\">cac2fdf</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/897d5ac097ea406972a0353acf50af15c67db67e\">897d5ac</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/nefu-ljw/python-markdown-to-wordpress/issues/2\">#2</a>: 关于本项目的一点小建议",
+    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/922177159f6f1fa35f77a0e84a044fb31fb3d14e\">9221771</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/e806a5667204396c14fb3b2a68200791cab155c2\">e806a56</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/c956a8e0859a8941ea750052c37a152e1c380bfe\">c956a8e</a>\n- <a href=\"https://github.com/huangwb8/bloghelper/commit/3ea781d77c14663946dbaf7d4a8ca4823b96b4f7\">3ea781d</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/rli012/GDCRNATools/issues/6\">#6</a>: Questions and advice for GDCRNATools\n- <a href=\"https://github.com/Gibbsdavidl/Immune-Subtype-Clustering/issues/4\">#4</a>: Why some Change happen in 'ImmuneSigs_function' in ImmuneSigs68_function.R?\n- <a href=\"https://github.com/CRI-iAtlas/ImmuneSubtypeClassifier/issues/3\">#3</a>: Data preparation of ImmuneSubtypeClassifier Package\n- <a href=\"https://github.com/YuLab-SMU/DOSE/issues/28\">#28</a>: Some problems about 'maxGSSize' parameter in enricher_interval series function\n- <a href=\"https://github.com/yixuan/prettydoc/issues/37\">#37</a>: prettydoc: about scrolling catalogue in html and head-hiding in markdown\n\n And many more...",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/CCS/commit/f702187e05ce0d7b7f85118fc25e7e40bf70b927\">f702187</a>\n- <a href=\"https://github.com/huangwb8/GSClassifier.principle/commit/4efb52cc453333418701327e5a0b98d400fd1868\">4efb52c</a>\n- <a href=\"https://github.com/huangwb8/GSClassifier.principle/commit/185c650a0c5d9acf7b83b1e4ba20b68e15189f2e\">185c650</a>\n- <a href=\"https://github.com/huangwb8/GSClassifier.principle/commit/324f063e4dac05543979830f5971dc40332045bd\">324f063</a>\n- <a href=\"https://github.com/huangwb8/GSClassifier.principle/commit/147ba7657356cd4e92307ee97ec6872464fbf2be\">147ba76</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/dc91304c8438168a07449d98652324db124622e5\">dc91304</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
+    "id": "public-keys-4",
+    "tier": 4,
+    "desc": "I have four public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/3ad4c0a72591c013166f80139892f9c890f80c13\">3ad4c0a</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/8311766fe9ea03f0f358b028da0b832f600702eb\">8311766</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/69f4538377c8c768ea109dddaf01e15fa67fbdc3\">69f4538</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+  },
+  {
+    "id": "winter-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Winter solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/59bdfc4ec2a4bd2bcb6b2b126a64c8978f7de0d2\">59bdfc4</a>",
+    "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/5d06f3c6c5bc3108415993191ec095a559d2088f\">5d06f3c</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/cbd231c984d7d67db48b837668325ddab394aab6\">cbd231c</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/f8ceee59c6abb146e95df13233c87fdda82f9202\">f8ceee5</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/2cc9cb734dd2ba081d7daa3d62f7d5f121cf84da\">2cc9cb7</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/fc22fa6199e9acb6865b4012e7986f7bdf8dd76c\">fc22fa6</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/455d8ac70c8256831ba11fc9074894b045eee18b\">455d8ac</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/c2260b85be7bf5ffc87690036680554816d2ad92\">c2260b8</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/cc975a0409837f71634f3775c5b414bced39e7ac\">cc975a0</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/175770187e579bb503062f00e820faf11930bbe2\">1757701</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/d685bab102d87ffdb6060af64fad18e8a286beaa\">d685bab</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/fe08718ed03e839d362e557bc5ae0985519c6662\">fe08718</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/9b128e70b50757cccba9bf840f774b964e42aa75\">9b128e7</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX\">huangwb8/ChineseResearchLaTeX: ★1185</a>\n* <a href=\"https://github.com/huangwb8/m2w\">huangwb8/m2w: ★44</a>\n* <a href=\"https://github.com/huangwb8/skills\">huangwb8/skills: ★15</a>\n* <a href=\"https://github.com/huangwb8/bloghelper\">huangwb8/bloghelper: ★10</a>\n* <a href=\"https://github.com/huangwb8/live2dyy\">huangwb8/live2dyy: ★7</a>\n* <a href=\"https://github.com/huangwb8/openmediavault_zfs\">huangwb8/openmediavault_zfs: ★5</a>\n* <a href=\"https://github.com/huangwb8/easySCI\">huangwb8/easySCI: ★3</a>\n* <a href=\"https://github.com/huangwb8/VibeNotification\">huangwb8/VibeNotification: ★2</a>\n* <a href=\"https://github.com/huangwb8/bioinf\">huangwb8/bioinf: ★1</a>\n* <a href=\"https://github.com/huangwb8/GSClassifier\">huangwb8/GSClassifier: ★1</a>\n* <a href=\"https://github.com/huangwb8/learn_python3_spider\">huangwb8/learn_python3_spider: ★1</a>\n* <a href=\"https://github.com/huangwb8/sysu-thesis\">huangwb8/sysu-thesis: ★1</a>\n* <a href=\"https://github.com/huangwb8/live2d_bensz\">huangwb8/live2d_bensz: ★1</a>\n* <a href=\"https://github.com/huangwb8/liuli_backup\">huangwb8/liuli_backup: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "stars-500",
+    "tier": 2,
+    "desc": "I collected 500 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX\">huangwb8/ChineseResearchLaTeX: ★1185</a>\n* <a href=\"https://github.com/huangwb8/m2w\">huangwb8/m2w: ★44</a>\n* <a href=\"https://github.com/huangwb8/skills\">huangwb8/skills: ★15</a>\n* <a href=\"https://github.com/huangwb8/bloghelper\">huangwb8/bloghelper: ★10</a>\n* <a href=\"https://github.com/huangwb8/live2dyy\">huangwb8/live2dyy: ★7</a>\n* <a href=\"https://github.com/huangwb8/openmediavault_zfs\">huangwb8/openmediavault_zfs: ★5</a>\n* <a href=\"https://github.com/huangwb8/easySCI\">huangwb8/easySCI: ★3</a>\n* <a href=\"https://github.com/huangwb8/VibeNotification\">huangwb8/VibeNotification: ★2</a>\n* <a href=\"https://github.com/huangwb8/bioinf\">huangwb8/bioinf: ★1</a>\n* <a href=\"https://github.com/huangwb8/GSClassifier\">huangwb8/GSClassifier: ★1</a>\n* <a href=\"https://github.com/huangwb8/learn_python3_spider\">huangwb8/learn_python3_spider: ★1</a>\n* <a href=\"https://github.com/huangwb8/sysu-thesis\">huangwb8/sysu-thesis: ★1</a>\n* <a href=\"https://github.com/huangwb8/live2d_bensz\">huangwb8/live2d_bensz: ★1</a>\n* <a href=\"https://github.com/huangwb8/liuli_backup\">huangwb8/liuli_backup: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-500.png"
+  },
+  {
+    "id": "stars-1000",
+    "tier": 3,
+    "desc": "I collected 1000 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX\">huangwb8/ChineseResearchLaTeX: ★1185</a>\n* <a href=\"https://github.com/huangwb8/m2w\">huangwb8/m2w: ★44</a>\n* <a href=\"https://github.com/huangwb8/skills\">huangwb8/skills: ★15</a>\n* <a href=\"https://github.com/huangwb8/bloghelper\">huangwb8/bloghelper: ★10</a>\n* <a href=\"https://github.com/huangwb8/live2dyy\">huangwb8/live2dyy: ★7</a>\n* <a href=\"https://github.com/huangwb8/openmediavault_zfs\">huangwb8/openmediavault_zfs: ★5</a>\n* <a href=\"https://github.com/huangwb8/easySCI\">huangwb8/easySCI: ★3</a>\n* <a href=\"https://github.com/huangwb8/VibeNotification\">huangwb8/VibeNotification: ★2</a>\n* <a href=\"https://github.com/huangwb8/bioinf\">huangwb8/bioinf: ★1</a>\n* <a href=\"https://github.com/huangwb8/GSClassifier\">huangwb8/GSClassifier: ★1</a>\n* <a href=\"https://github.com/huangwb8/learn_python3_spider\">huangwb8/learn_python3_spider: ★1</a>\n* <a href=\"https://github.com/huangwb8/sysu-thesis\">huangwb8/sysu-thesis: ★1</a>\n* <a href=\"https://github.com/huangwb8/live2d_bensz\">huangwb8/live2d_bensz: ★1</a>\n* <a href=\"https://github.com/huangwb8/liuli_backup\">huangwb8/liuli_backup: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-1000.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX/commit/ba5587bc17a9ea51498082c26b59e9d0fb2ab6f5\">ba5587b</a>\n- <a href=\"https://github.com/huangwb8/live2d_bensz/commit/c733f8a0eea201d8f89cc6a3e0ef72656ba3bad3\">c733f8a</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/5fcbf998ecb398466ed30ed60eef2a86a942c17d\">5fcbf99</a>\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/e9ae55b1ebe97de98e3602c2cdd28fba23feaf01\">e9ae55b</a>\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/eac358f86235d7e19afb74a106ce1cd2687b80b2\">eac358f</a>\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/abf7b161f0117c1fe83527c62d7d0b35205619a7\">abf7b16</a>\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/7eca4605ea3d3a1f9be615823735d0f0c8fdffac\">7eca460</a>\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/bdf0cc451a53fd68ae32ac1cca6faf7248cbe80f\">bdf0cc4</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX/commit/cb589fcced4bef980c8986507a7c54d207e0992e\">cb589fc</a>\n- <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX/commit/885fea1e126cc5d0e591ece3a384089d3200b539\">885fea1</a>\n- <a href=\"https://github.com/huangwb8/skills/commit/eae202feff0698712a72ccdf97e5ca8cae800509\">eae202f</a>\n- <a href=\"https://github.com/huangwb8/skills/commit/9d24cc4e8b0cd4983fbaf81dd5a14b5ff4021f02\">9d24cc4</a>\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/b90b3ec7b90984637c0bbd128435d415bf65ad64\">b90b3ec</a>\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/0247199ea6ccf61ffb6cdbfbdb7d2400adf9340e\">0247199</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX/commit/094430381e5c4811f597871f2f1131fa8e28d4c4\">0944303</a>\n- <a href=\"https://github.com/huangwb8/m2w/commit/90cf7b73a5c8137a880ee5cd912a7490478b802e\">90cf7b7</a>\n- <a href=\"https://github.com/huangwb8/m2w/commit/584852d848a186dea1c3c811ed23bdf555bc4fa8\">584852d</a>\n- <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX/commit/2726984bc8978be25a00bdccde7595d9b422d176\">2726984</a>\n- <a href=\"https://github.com/huangwb8/huangwb8/commit/527771c14ff982b2eb3291d887693ef6de2ace93\">527771c</a>\n- <a href=\"https://github.com/huangwb8/huangwb8/commit/5e993eb82576e1a8b433d181999e1f99c92e30e5\">5e993eb</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
