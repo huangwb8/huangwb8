@@ -4,25 +4,27 @@
 
 Commits:
 
-- <a href="https://github.com/huangwb8/bensz-channel/commit/e9ae55b1ebe97de98e3602c2cdd28fba23feaf01">e9ae55b</a>: fix(mobile): 修复移动端频道切换抽屉的渲染和交互问题
+- <a href="https://github.com/huangwb8/bensz-channel/commit/cec20a77c95894c88f97de1b3a1e78df0f4b471f">cec20a7</a>: fix(ui): 修复频道管理界面夜间模式显示异常
 
-- 将抽屉从粘性头部内移到页面根层，避免移动端浏览器固定层渲染异常
-- 统一抽屉状态管理，移除易导致双触发的 touchend 监听
-- 补充 CSS isolation 和 overscroll-behavior 属性，提升移动端层叠稳定性
-- 新增回归测试锁定抽屉必须渲染在 header 之外
-- 更新项目版本号至 1.28.3
-- <a href="https://github.com/huangwb8/bensz-channel/commit/d90c352090e20afa3badfda223bfb9381142ddd8">d90c352</a>: fix: 修复文档和工作流中 config.yaml 的过时引用
+- 为频道管理页各区块挂载语义化 channel-admin-* 样式类
+- 拖拽高亮从硬编码 ring-blue-200 改为主题变量驱动
+- 测试锁定 channel-admin-create-form、switch-track、card-dragging 类存在
+- <a href="https://github.com/huangwb8/bensz-channel/commit/0c1bbd4d6b448cdb4fed8c787bad204de90e2c4d">0c1bbd4</a>: fix(docker): 修复 Web 容器图片上传大小限制
 
-- 更新 README.md 版本号管理章节，将 config.yaml 路径更正为 app/config.toml
-- 更新 GitHub Actions 工作流名称和提示信息，从 config.yaml 改为 config.toml
-- 修正 README.md 中 Docker 镜像发布时间描述，从"每 12 小时"更正为"每天北京时间 02:00"
-- 更新 docs/version-management.md 文档中的所有过时引用
-- <a href="https://github.com/huangwb8/bensz-channel/commit/7a5648ab1f09b2ffdaae59a0f807cebc20ba7b9f">7a5648a</a>: fix(style): 修复夜间模式样式显示问题
+- 将 Nginx client_max_body_size 调整为 12m，解决 413 Payload Too Large
+- 新增 php-upload.ini，将 upload_max_filesize 设为 10M、post_max_size 设为 12m
+- Dockerfile 构建时复制上传配置到 PHP conf.d
+- docker-smoke.sh 新增约 2MB 大图粘贴上传回归用例
+- <a href="https://github.com/huangwb8/bensz-channel/commit/b321641a19780f3527514ab207995bdd6ed6fd8f">b321641</a>: fix(editor): 修复 Markdown 编辑器粘贴图片上传失败问题
 
-- 统一补齐深色主题变量与组件状态色的深色覆盖
-- 优化登录页在夜间模式下的高对比深色视觉
-- 改进 HTML 压缩逻辑以保护 script 和 style 标签内容
-- 新增夜间模式样式回归测试锁定关键 dark override
+- 独立封装粘贴逻辑，优先读取 clipboardData.items，必要时回退到 files
+- 为剪贴板产生的无扩展名图片自动补齐稳定文件名
+- 移除手工指定 multipart 请求头，改由浏览器自动附带 boundary
+- 新增前端粘贴上传单元测试，校验剪贴板图片回退提取与 JPG 文件名补全
+- 新增文章详情页快捷编辑回归测试，锁定管理员可直接进入编辑
+- 优化文章详情页管理员操作路径，直接显示"编辑文章"入口
+
+Closes #image-upload-issue
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
