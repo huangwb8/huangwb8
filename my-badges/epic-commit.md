@@ -9,6 +9,7 @@ Commits:
 - <a href="https://github.com/huangwb8/bensz-channel/commit/e4c7120424b879a6ea5a3b1f742fedb5700939fe">e4c7120</a>
 - <a href="https://github.com/huangwb8/bensz-channel/commit/ac7eb292755cbd37bb43752f551be7a94b4be4e6">ac7eb29</a>
 - <a href="https://github.com/huangwb8/bensz-channel/commit/93b357532308855efb9015269a14edfc1398519a">93b3575</a>
+- <a href="https://github.com/huangwb8/ChineseResearchLaTeX/commit/df57c7d9173d628c76f683d282a05a96721b79bb">df57c7d</a>
 - <a href="https://github.com/huangwb8/ChineseResearchLaTeX/commit/9aa66830fb093b528221b0a5087e3eb966d54935">9aa6683</a>
 - <a href="https://github.com/huangwb8/ChineseResearchLaTeX/commit/e84ae660c0eeef2c106660196577cfaf89132b80">e84ae66</a>
 - <a href="https://github.com/huangwb8/ChineseResearchLaTeX/commit/ca5e0a914cc26b1fdbd460f4e0eda5e0394b2301">ca5e0a9</a>
