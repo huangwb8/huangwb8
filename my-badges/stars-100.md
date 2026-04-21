@@ -5,11 +5,12 @@
 Repos:
 
 * <a href="https://github.com/huangwb8/m2w">huangwb8/m2w: ★44</a>
-* <a href="https://github.com/huangwb8/skills">huangwb8/skills: ★32</a>
+* <a href="https://github.com/huangwb8/skills">huangwb8/skills: ★31</a>
 * <a href="https://github.com/huangwb8/bloghelper">huangwb8/bloghelper: ★11</a>
 * <a href="https://github.com/huangwb8/live2dyy">huangwb8/live2dyy: ★7</a>
 * <a href="https://github.com/huangwb8/openmediavault_zfs">huangwb8/openmediavault_zfs: ★5</a>
 * <a href="https://github.com/huangwb8/easySCI">huangwb8/easySCI: ★3</a>
+* <a href="https://github.com/huangwb8/live2d_bensz">huangwb8/live2d_bensz: ★2</a>
 * <a href="https://github.com/huangwb8/huangwb8">huangwb8/huangwb8: ★2</a>
 * <a href="https://github.com/huangwb8/VibeNotification">huangwb8/VibeNotification: ★2</a>
 * <a href="https://github.com/huangwb8/bensz-channel">huangwb8/bensz-channel: ★2</a>
@@ -17,7 +18,6 @@ Repos:
 * <a href="https://github.com/huangwb8/GSClassifier">huangwb8/GSClassifier: ★1</a>
 * <a href="https://github.com/huangwb8/learn_python3_spider">huangwb8/learn_python3_spider: ★1</a>
 * <a href="https://github.com/huangwb8/sysu-thesis">huangwb8/sysu-thesis: ★1</a>
-* <a href="https://github.com/huangwb8/live2d_bensz">huangwb8/live2d_bensz: ★1</a>
 * <a href="https://github.com/huangwb8/liuli_backup">huangwb8/liuli_backup: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
