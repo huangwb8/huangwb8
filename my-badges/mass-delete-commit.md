@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/huangwb8/bensz-channel/commit/4553e211dc95e4ee71232fc6c8c878b184a26168">4553e21</a>
+- <a href="https://github.com/huangwb8/sub2api/commit/4f507cc26ec064af56a76366ebbf20e5c93b8754">4f507cc</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

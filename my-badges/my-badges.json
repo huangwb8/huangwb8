@@ -24,7 +24,7 @@
     "id": "alien-day",
     "tier": 0,
     "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/cf824d2bfa064c0fb94e342d4ccaf459835b0a77\">cf824d2</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/d6280048934d2c83a2f635f892cab1bee77cf43e\">d628004</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/bdcc0394ef06784cf88de7b4e2344f8c7ab0ef46\">bdcc039</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/34880e6427223a4c10c9510aec37ce2a316b9ed6\">34880e6</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/8efb90b396f2e27e46a9609fca6923c571c2cd12\">8efb90b</a>\n- <a href=\"https://github.com/huangwb8/liuli_backup/commit/8df6ebfb4bf30ba18da51695999909b36c2fb7d5\">8df6ebf</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/sub2api/commit/1ad08d61b3d0bc9978f4b1e19481d275eb07d939\">1ad08d6</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/ea42c24c278c8c2ce8bbbea7e5cad9770494c02d\">ea42c24</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/9aceac32c74d7c9317def390ce881404e8059a5a\">9aceac3</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/f90ca19e18fb0be03d27baaf19392c953c2379c9\">f90ca19</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/b0b4b855f36386df06e4ae2d0986c1ea6584fa73\">b0b4b85</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/3290caa2fc25f7e6a6b71cbf8ad16d0d1bc9dec1\">3290caa</a>",
     "image": "https://my-badges.github.io/my-badges/alien-day.png"
   },
   {
@@ -38,14 +38,14 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/sub2api/commit/928b73065635c451aea9c8135730854c9fc28ff2\">928b730</a>: chore(release): 升级 VERSION 至 1.0.23，更新 CHANGELOG\n\n- 新增 Dashboard 定价策略顾问面板（基于近 30 天用量样本自动计算建议月费、最低用户数与安全缓冲）\n- 补充中英文 i18n 翻译与回归测试",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/sub2api/commit/70ca94ecf058c763067c88b03cb9da5d7ef48bec\">70ca94e</a>: chore: 更新 Prompts.md 版本号至 1.2.7\n\n- 准备发布 v1.2.7 release\n\nCo-Authored-By: Claude Opus 4.7 <noreply@anthropic.com>",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/ccs.principle/commit/480c3b4107a07056b34660184fb89fdac502ded4\">480c3b4</a>\n- <a href=\"https://github.com/huangwb8/ccs.principle/commit/ca9fc7030b1f779f284ad64eb08d407a0b868599\">ca9fc70</a>\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/8379ea46c098129406dba8f120805315ee8e0b2d\">8379ea4</a>\n- <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX/commit/8fd5c3a2fc58c6a9cb387888b2fd22c746516062\">8fd5c3a</a>\n- <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX/commit/2b2af2cc936afa9cc7f31938ca00b5248a727739\">2b2af2c</a>\n- <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX/commit/dbe89c15d021a658a05fa07b3ed86caeb9743534\">dbe89c1</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/sub2api/commit/4980866116b58f94c1282edf9b0f65e549f049e3\">4980866</a>\n- <a href=\"https://github.com/huangwb8/ccs.principle/commit/480c3b4107a07056b34660184fb89fdac502ded4\">480c3b4</a>\n- <a href=\"https://github.com/huangwb8/ccs.principle/commit/ca9fc7030b1f779f284ad64eb08d407a0b868599\">ca9fc70</a>\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/8379ea46c098129406dba8f120805315ee8e0b2d\">8379ea4</a>\n- <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX/commit/8fd5c3a2fc58c6a9cb387888b2fd22c746516062\">8fd5c3a</a>\n- <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX/commit/2b2af2cc936afa9cc7f31938ca00b5248a727739\">2b2af2c</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 2490 times)\n2. update (used 933 times)\n3. claude (used 421 times)\n4. co-authored-by: (used 382 times)\n5. <noreply@anthropic.com> (used 382 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 2490 times)\n2. update (used 933 times)\n3. claude (used 533 times)\n4. co-authored-by: (used 494 times)\n5. <noreply@anthropic.com> (used 494 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/a913ea4442923f06dca50c01e7e2f312cf9f3f83\">a913ea4</a>: fix(ui): 修复两步验证设置区暗色主题显示异常\n\n- 新增 two-factor-* 主题感知 CSS 类，替换硬编码的 slate/blue 浅色背景\n- 补全 bg-blue-50/50 的夜间模式覆盖规则\n- 同步更新账户设置视图与相关回归测试\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/f82b371cd44d26b27d83784dd6841e2308900701\">f82b371</a>: fix: 修复暗色主题渐变与 CDN 设置保存问题\n\n- 修复频道管理页夜间模式下表单背景发白问题\n- 修复首次仅保存 CDN 设置时站点配置写入失败问题\n- 同步更新相关测试用例与 CHANGELOG",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/sub2api/commit/0a0186f95482f01928cd2b9ac738fbf0b078a841\">0a0186f</a>: fix(admin): 移除用户属性配置弹窗 Key 字段重复的提示文案\n\n- Key 输入框已有 placeholder 提示，移除下方冗余的 input-hint 段落\n- 同步更新 CHANGELOG.md 记录修复内容\n\nCo-Authored-By: Claude Opus 4.7 <noreply@anthropic.com>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/e3928ee07e8c04215762e8aa74f0fbc1863aa89a\">e3928ee</a>: fix(admin): 移除支付套餐管理页重复的提示文案\n\n- 移除 AdminPaymentPlansView 中与订阅套餐面板重复的 planManagementHint 说明\n- 同步更新 CHANGELOG 记录该修复\n\nCo-Authored-By: Claude Opus 4.7 <noreply@anthropic.com>",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -122,7 +122,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/4553e211dc95e4ee71232fc6c8c878b184a26168\">4553e21</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/sub2api/commit/4f507cc26ec064af56a76366ebbf20e5c93b8754\">4f507cc</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -206,21 +206,21 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/huangwb8/m2w\">huangwb8/m2w: ★44</a>\n* <a href=\"https://github.com/huangwb8/skills\">huangwb8/skills: ★31</a>\n* <a href=\"https://github.com/huangwb8/bloghelper\">huangwb8/bloghelper: ★11</a>\n* <a href=\"https://github.com/huangwb8/live2dyy\">huangwb8/live2dyy: ★7</a>\n* <a href=\"https://github.com/huangwb8/openmediavault_zfs\">huangwb8/openmediavault_zfs: ★5</a>\n* <a href=\"https://github.com/huangwb8/easySCI\">huangwb8/easySCI: ★3</a>\n* <a href=\"https://github.com/huangwb8/live2d_bensz\">huangwb8/live2d_bensz: ★2</a>\n* <a href=\"https://github.com/huangwb8/huangwb8\">huangwb8/huangwb8: ★2</a>\n* <a href=\"https://github.com/huangwb8/VibeNotification\">huangwb8/VibeNotification: ★2</a>\n* <a href=\"https://github.com/huangwb8/bensz-channel\">huangwb8/bensz-channel: ★2</a>\n* <a href=\"https://github.com/huangwb8/bioinf\">huangwb8/bioinf: ★1</a>\n* <a href=\"https://github.com/huangwb8/GSClassifier\">huangwb8/GSClassifier: ★1</a>\n* <a href=\"https://github.com/huangwb8/learn_python3_spider\">huangwb8/learn_python3_spider: ★1</a>\n* <a href=\"https://github.com/huangwb8/sysu-thesis\">huangwb8/sysu-thesis: ★1</a>\n* <a href=\"https://github.com/huangwb8/liuli_backup\">huangwb8/liuli_backup: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/huangwb8/m2w\">huangwb8/m2w: ★44</a>\n* <a href=\"https://github.com/huangwb8/skills\">huangwb8/skills: ★33</a>\n* <a href=\"https://github.com/huangwb8/bloghelper\">huangwb8/bloghelper: ★11</a>\n* <a href=\"https://github.com/huangwb8/live2dyy\">huangwb8/live2dyy: ★6</a>\n* <a href=\"https://github.com/huangwb8/openmediavault_zfs\">huangwb8/openmediavault_zfs: ★5</a>\n* <a href=\"https://github.com/huangwb8/easySCI\">huangwb8/easySCI: ★3</a>\n* <a href=\"https://github.com/huangwb8/live2d_bensz\">huangwb8/live2d_bensz: ★2</a>\n* <a href=\"https://github.com/huangwb8/huangwb8\">huangwb8/huangwb8: ★2</a>\n* <a href=\"https://github.com/huangwb8/VibeNotification\">huangwb8/VibeNotification: ★2</a>\n* <a href=\"https://github.com/huangwb8/bensz-channel\">huangwb8/bensz-channel: ★2</a>\n* <a href=\"https://github.com/huangwb8/bioinf\">huangwb8/bioinf: ★1</a>\n* <a href=\"https://github.com/huangwb8/GSClassifier\">huangwb8/GSClassifier: ★1</a>\n* <a href=\"https://github.com/huangwb8/learn_python3_spider\">huangwb8/learn_python3_spider: ★1</a>\n* <a href=\"https://github.com/huangwb8/sysu-thesis\">huangwb8/sysu-thesis: ★1</a>\n* <a href=\"https://github.com/huangwb8/liuli_backup\">huangwb8/liuli_backup: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
     "id": "stars-500",
     "tier": 2,
     "desc": "I collected 500 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX\">huangwb8/ChineseResearchLaTeX: ★1477</a>\n* <a href=\"https://github.com/huangwb8/m2w\">huangwb8/m2w: ★44</a>\n* <a href=\"https://github.com/huangwb8/skills\">huangwb8/skills: ★31</a>\n* <a href=\"https://github.com/huangwb8/bloghelper\">huangwb8/bloghelper: ★11</a>\n* <a href=\"https://github.com/huangwb8/live2dyy\">huangwb8/live2dyy: ★7</a>\n* <a href=\"https://github.com/huangwb8/openmediavault_zfs\">huangwb8/openmediavault_zfs: ★5</a>\n* <a href=\"https://github.com/huangwb8/easySCI\">huangwb8/easySCI: ★3</a>\n* <a href=\"https://github.com/huangwb8/live2d_bensz\">huangwb8/live2d_bensz: ★2</a>\n* <a href=\"https://github.com/huangwb8/huangwb8\">huangwb8/huangwb8: ★2</a>\n* <a href=\"https://github.com/huangwb8/VibeNotification\">huangwb8/VibeNotification: ★2</a>\n* <a href=\"https://github.com/huangwb8/bensz-channel\">huangwb8/bensz-channel: ★2</a>\n* <a href=\"https://github.com/huangwb8/bioinf\">huangwb8/bioinf: ★1</a>\n* <a href=\"https://github.com/huangwb8/GSClassifier\">huangwb8/GSClassifier: ★1</a>\n* <a href=\"https://github.com/huangwb8/learn_python3_spider\">huangwb8/learn_python3_spider: ★1</a>\n* <a href=\"https://github.com/huangwb8/sysu-thesis\">huangwb8/sysu-thesis: ★1</a>\n* <a href=\"https://github.com/huangwb8/liuli_backup\">huangwb8/liuli_backup: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX\">huangwb8/ChineseResearchLaTeX: ★1510</a>\n* <a href=\"https://github.com/huangwb8/m2w\">huangwb8/m2w: ★44</a>\n* <a href=\"https://github.com/huangwb8/skills\">huangwb8/skills: ★33</a>\n* <a href=\"https://github.com/huangwb8/bloghelper\">huangwb8/bloghelper: ★11</a>\n* <a href=\"https://github.com/huangwb8/live2dyy\">huangwb8/live2dyy: ★6</a>\n* <a href=\"https://github.com/huangwb8/openmediavault_zfs\">huangwb8/openmediavault_zfs: ★5</a>\n* <a href=\"https://github.com/huangwb8/easySCI\">huangwb8/easySCI: ★3</a>\n* <a href=\"https://github.com/huangwb8/live2d_bensz\">huangwb8/live2d_bensz: ★2</a>\n* <a href=\"https://github.com/huangwb8/huangwb8\">huangwb8/huangwb8: ★2</a>\n* <a href=\"https://github.com/huangwb8/VibeNotification\">huangwb8/VibeNotification: ★2</a>\n* <a href=\"https://github.com/huangwb8/bensz-channel\">huangwb8/bensz-channel: ★2</a>\n* <a href=\"https://github.com/huangwb8/bioinf\">huangwb8/bioinf: ★1</a>\n* <a href=\"https://github.com/huangwb8/GSClassifier\">huangwb8/GSClassifier: ★1</a>\n* <a href=\"https://github.com/huangwb8/learn_python3_spider\">huangwb8/learn_python3_spider: ★1</a>\n* <a href=\"https://github.com/huangwb8/sysu-thesis\">huangwb8/sysu-thesis: ★1</a>\n* <a href=\"https://github.com/huangwb8/liuli_backup\">huangwb8/liuli_backup: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-500.png"
   },
   {
     "id": "stars-1000",
     "tier": 3,
     "desc": "I collected 1000 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX\">huangwb8/ChineseResearchLaTeX: ★1477</a>\n* <a href=\"https://github.com/huangwb8/m2w\">huangwb8/m2w: ★44</a>\n* <a href=\"https://github.com/huangwb8/skills\">huangwb8/skills: ★31</a>\n* <a href=\"https://github.com/huangwb8/bloghelper\">huangwb8/bloghelper: ★11</a>\n* <a href=\"https://github.com/huangwb8/live2dyy\">huangwb8/live2dyy: ★7</a>\n* <a href=\"https://github.com/huangwb8/openmediavault_zfs\">huangwb8/openmediavault_zfs: ★5</a>\n* <a href=\"https://github.com/huangwb8/easySCI\">huangwb8/easySCI: ★3</a>\n* <a href=\"https://github.com/huangwb8/live2d_bensz\">huangwb8/live2d_bensz: ★2</a>\n* <a href=\"https://github.com/huangwb8/huangwb8\">huangwb8/huangwb8: ★2</a>\n* <a href=\"https://github.com/huangwb8/VibeNotification\">huangwb8/VibeNotification: ★2</a>\n* <a href=\"https://github.com/huangwb8/bensz-channel\">huangwb8/bensz-channel: ★2</a>\n* <a href=\"https://github.com/huangwb8/bioinf\">huangwb8/bioinf: ★1</a>\n* <a href=\"https://github.com/huangwb8/GSClassifier\">huangwb8/GSClassifier: ★1</a>\n* <a href=\"https://github.com/huangwb8/learn_python3_spider\">huangwb8/learn_python3_spider: ★1</a>\n* <a href=\"https://github.com/huangwb8/sysu-thesis\">huangwb8/sysu-thesis: ★1</a>\n* <a href=\"https://github.com/huangwb8/liuli_backup\">huangwb8/liuli_backup: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX\">huangwb8/ChineseResearchLaTeX: ★1510</a>\n* <a href=\"https://github.com/huangwb8/m2w\">huangwb8/m2w: ★44</a>\n* <a href=\"https://github.com/huangwb8/skills\">huangwb8/skills: ★33</a>\n* <a href=\"https://github.com/huangwb8/bloghelper\">huangwb8/bloghelper: ★11</a>\n* <a href=\"https://github.com/huangwb8/live2dyy\">huangwb8/live2dyy: ★6</a>\n* <a href=\"https://github.com/huangwb8/openmediavault_zfs\">huangwb8/openmediavault_zfs: ★5</a>\n* <a href=\"https://github.com/huangwb8/easySCI\">huangwb8/easySCI: ★3</a>\n* <a href=\"https://github.com/huangwb8/live2d_bensz\">huangwb8/live2d_bensz: ★2</a>\n* <a href=\"https://github.com/huangwb8/huangwb8\">huangwb8/huangwb8: ★2</a>\n* <a href=\"https://github.com/huangwb8/VibeNotification\">huangwb8/VibeNotification: ★2</a>\n* <a href=\"https://github.com/huangwb8/bensz-channel\">huangwb8/bensz-channel: ★2</a>\n* <a href=\"https://github.com/huangwb8/bioinf\">huangwb8/bioinf: ★1</a>\n* <a href=\"https://github.com/huangwb8/GSClassifier\">huangwb8/GSClassifier: ★1</a>\n* <a href=\"https://github.com/huangwb8/learn_python3_spider\">huangwb8/learn_python3_spider: ★1</a>\n* <a href=\"https://github.com/huangwb8/sysu-thesis\">huangwb8/sysu-thesis: ★1</a>\n* <a href=\"https://github.com/huangwb8/liuli_backup\">huangwb8/liuli_backup: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-1000.png"
   },
   {
@@ -234,21 +234,21 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/sub2api/commit/cb4c064e8b950f4f28a3ffc142d07df6b2755232\">cb4c064</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/d186907bbbaac52aae4a267a557882eeaa92811d\">d186907</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/a6108e5cadf6ee7445389321d8ae840ba0edd4a8\">a6108e5</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/f8b23f817b3231c8ee3b755b73eaa5d09c070f70\">f8b23f8</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/d4eae6a61c91aa025a31c131fdb91be24139c361\">d4eae6a</a>\n- <a href=\"https://github.com/huangwb8/bensz-devtools/commit/60679141591b24d59358726a91eef6e808cdcbbf\">6067914</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/sub2api/commit/040f2eb0d2d39266841084883d71fb206cb8e563\">040f2eb</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/d41f914bd00cdc4d5c02a511ae86a6a89e7bd873\">d41f914</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/70ca94ecf058c763067c88b03cb9da5d7ef48bec\">70ca94e</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/4533c756ec536bd6bb3e6670936075022d81d6c2\">4533c75</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/4e9fc2abe835c4a147885f12cdcabbcd4483da62\">4e9fc2a</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/1be1c01a1c53b2e1c10630ccb0c2a63c9299a650\">1be1c01</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/sub2api/commit/33afa78e1297523b17c32e1423d3a31b4248d139\">33afa78</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/1b9778abbd7a78582939a19e15dceb91ca996168\">1b9778a</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/dcdc8b8b58019c795ddbf0a3240598de3c3d9f31\">dcdc8b8</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/ded9cded61ee3426c6c891cbcb9ba9bffc15c16d\">ded9cde</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/e08f971654db1678bb6c869f0de3422dda81c4a6\">e08f971</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/4f1976091192cd141d5217bd5c5cd2ba609004f0\">4f19760</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/sub2api/commit/34c2702c3416e3030755838e5b937b2bcc14767d\">34c2702</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/03135f13abcc8363e0fe8ff604537331fd4380f1\">03135f1</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/429691fdfe24fd3dc91cda41d4f16d201c1c993a\">429691f</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/ed49b6e041c5d4b899463e17be47d6e370901769\">ed49b6e</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/49f34a104572f8c080e2f0efcd808d36d19adbb1\">49f34a1</a>\n- <a href=\"https://github.com/huangwb8/sub2api/commit/c7abda7d73b935e96fdadb126773b40bc85b28af\">c7abda7</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/ccs.principle/commit/1340065ba8d84f2e528b028cbc9d2f7efd287f0a\">1340065</a>\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/3a6391b3da0fccc02b02d9d91125f531792f893f\">3a6391b</a>\n- <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX/commit/094430381e5c4811f597871f2f1131fa8e28d4c4\">0944303</a>\n- <a href=\"https://github.com/huangwb8/m2w/commit/90cf7b73a5c8137a880ee5cd912a7490478b802e\">90cf7b7</a>\n- <a href=\"https://github.com/huangwb8/m2w/commit/584852d848a186dea1c3c811ed23bdf555bc4fa8\">584852d</a>\n- <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX/commit/2726984bc8978be25a00bdccde7595d9b422d176\">2726984</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/huangwb8/sub2api/commit/60262c92a408d14a9747651afb88e384a8a20ac8\">60262c9</a>\n- <a href=\"https://github.com/huangwb8/ccs.principle/commit/1340065ba8d84f2e528b028cbc9d2f7efd287f0a\">1340065</a>\n- <a href=\"https://github.com/huangwb8/bensz-channel/commit/3a6391b3da0fccc02b02d9d91125f531792f893f\">3a6391b</a>\n- <a href=\"https://github.com/huangwb8/ChineseResearchLaTeX/commit/094430381e5c4811f597871f2f1131fa8e28d4c4\">0944303</a>\n- <a href=\"https://github.com/huangwb8/m2w/commit/90cf7b73a5c8137a880ee5cd912a7490478b802e\">90cf7b7</a>\n- <a href=\"https://github.com/huangwb8/m2w/commit/584852d848a186dea1c3c811ed23bdf555bc4fa8\">584852d</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {

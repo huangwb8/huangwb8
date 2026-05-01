@@ -4,16 +4,18 @@
 
 Commits:
 
-- <a href="https://github.com/huangwb8/bensz-channel/commit/a913ea4442923f06dca50c01e7e2f312cf9f3f83">a913ea4</a>: fix(ui): 修复两步验证设置区暗色主题显示异常
+- <a href="https://github.com/huangwb8/sub2api/commit/0a0186f95482f01928cd2b9ac738fbf0b078a841">0a0186f</a>: fix(admin): 移除用户属性配置弹窗 Key 字段重复的提示文案
 
-- 新增 two-factor-* 主题感知 CSS 类，替换硬编码的 slate/blue 浅色背景
-- 补全 bg-blue-50/50 的夜间模式覆盖规则
-- 同步更新账户设置视图与相关回归测试
-- <a href="https://github.com/huangwb8/bensz-channel/commit/f82b371cd44d26b27d83784dd6841e2308900701">f82b371</a>: fix: 修复暗色主题渐变与 CDN 设置保存问题
+- Key 输入框已有 placeholder 提示，移除下方冗余的 input-hint 段落
+- 同步更新 CHANGELOG.md 记录修复内容
 
-- 修复频道管理页夜间模式下表单背景发白问题
-- 修复首次仅保存 CDN 设置时站点配置写入失败问题
-- 同步更新相关测试用例与 CHANGELOG
+Co-Authored-By: Claude Opus 4.7 <noreply@anthropic.com>
+- <a href="https://github.com/huangwb8/sub2api/commit/e3928ee07e8c04215762e8aa74f0fbc1863aa89a">e3928ee</a>: fix(admin): 移除支付套餐管理页重复的提示文案
+
+- 移除 AdminPaymentPlansView 中与订阅套餐面板重复的 planManagementHint 说明
+- 同步更新 CHANGELOG 记录该修复
+
+Co-Authored-By: Claude Opus 4.7 <noreply@anthropic.com>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

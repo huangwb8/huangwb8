@@ -4,10 +4,11 @@
 
 Commits:
 
-- <a href="https://github.com/huangwb8/sub2api/commit/928b73065635c451aea9c8135730854c9fc28ff2">928b730</a>: chore(release): 升级 VERSION 至 1.0.23，更新 CHANGELOG
+- <a href="https://github.com/huangwb8/sub2api/commit/70ca94ecf058c763067c88b03cb9da5d7ef48bec">70ca94e</a>: chore: 更新 Prompts.md 版本号至 1.2.7
 
-- 新增 Dashboard 定价策略顾问面板（基于近 30 天用量样本自动计算建议月费、最低用户数与安全缓冲）
-- 补充中英文 i18n 翻译与回归测试
+- 准备发布 v1.2.7 release
+
+Co-Authored-By: Claude Opus 4.7 <noreply@anthropic.com>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

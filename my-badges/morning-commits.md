@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/huangwb8/sub2api/commit/cb4c064e8b950f4f28a3ffc142d07df6b2755232">cb4c064</a>
-- <a href="https://github.com/huangwb8/sub2api/commit/d186907bbbaac52aae4a267a557882eeaa92811d">d186907</a>
-- <a href="https://github.com/huangwb8/sub2api/commit/a6108e5cadf6ee7445389321d8ae840ba0edd4a8">a6108e5</a>
-- <a href="https://github.com/huangwb8/sub2api/commit/f8b23f817b3231c8ee3b755b73eaa5d09c070f70">f8b23f8</a>
-- <a href="https://github.com/huangwb8/sub2api/commit/d4eae6a61c91aa025a31c131fdb91be24139c361">d4eae6a</a>
-- <a href="https://github.com/huangwb8/bensz-devtools/commit/60679141591b24d59358726a91eef6e808cdcbbf">6067914</a>
+- <a href="https://github.com/huangwb8/sub2api/commit/040f2eb0d2d39266841084883d71fb206cb8e563">040f2eb</a>
+- <a href="https://github.com/huangwb8/sub2api/commit/d41f914bd00cdc4d5c02a511ae86a6a89e7bd873">d41f914</a>
+- <a href="https://github.com/huangwb8/sub2api/commit/70ca94ecf058c763067c88b03cb9da5d7ef48bec">70ca94e</a>
+- <a href="https://github.com/huangwb8/sub2api/commit/4533c756ec536bd6bb3e6670936075022d81d6c2">4533c75</a>
+- <a href="https://github.com/huangwb8/sub2api/commit/4e9fc2abe835c4a147885f12cdcabbcd4483da62">4e9fc2a</a>
+- <a href="https://github.com/huangwb8/sub2api/commit/1be1c01a1c53b2e1c10630ccb0c2a63c9299a650">1be1c01</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
