@@ -4,11 +4,15 @@
 
 Commits:
 
-- <a href="https://github.com/huangwb8/sub2api/commit/70ca94ecf058c763067c88b03cb9da5d7ef48bec">70ca94e</a>: chore: 更新 Prompts.md 版本号至 1.2.7
+- <a href="https://github.com/huangwb8/ccs.principle/commit/c5f02e9a51eae744b7e73edc6954d1ce8163517c">c5f02e9</a>: chore: add AI-assisted development infrastructure
 
-- 准备发布 v1.2.7 release
+- add AGENTS.md as cross-platform AI project instructions (SSOT)
+- add CLAUDE.md as Claude Code specific adapter
+- add CHANGELOG.md for mandatory change tracking
+- enhance .gitignore with comprehensive OS, IDE, LaTeX, and archive patterns
+- document AI instruction files in README
 
-Co-Authored-By: Claude Opus 4.7 <noreply@anthropic.com>
+Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

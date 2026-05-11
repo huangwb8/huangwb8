@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/huangwb8/sub2api/commit/040f2eb0d2d39266841084883d71fb206cb8e563">040f2eb</a>
-- <a href="https://github.com/huangwb8/sub2api/commit/d41f914bd00cdc4d5c02a511ae86a6a89e7bd873">d41f914</a>
-- <a href="https://github.com/huangwb8/sub2api/commit/70ca94ecf058c763067c88b03cb9da5d7ef48bec">70ca94e</a>
-- <a href="https://github.com/huangwb8/sub2api/commit/4533c756ec536bd6bb3e6670936075022d81d6c2">4533c75</a>
-- <a href="https://github.com/huangwb8/sub2api/commit/4e9fc2abe835c4a147885f12cdcabbcd4483da62">4e9fc2a</a>
-- <a href="https://github.com/huangwb8/sub2api/commit/1be1c01a1c53b2e1c10630ccb0c2a63c9299a650">1be1c01</a>
+- <a href="https://github.com/huangwb8/ChineseResearchLaTeX/commit/6f12f181d57df5a4ef1a2cf05cc805be40a09e09">6f12f18</a>
+- <a href="https://github.com/huangwb8/ChineseResearchLaTeX/commit/f27156cf238a6d12d0bda0e369ece95af8ef59cd">f27156c</a>
+- <a href="https://github.com/huangwb8/skills/commit/0b7ee7f683c37e3ebbd7aa874e651906675e87b1">0b7ee7f</a>
+- <a href="https://github.com/huangwb8/skills/commit/a414ee54a1339130990968d35f350777669b9339">a414ee5</a>
+- <a href="https://github.com/huangwb8/bensz-devtools/commit/60679141591b24d59358726a91eef6e808cdcbbf">6067914</a>
+- <a href="https://github.com/huangwb8/ChineseResearchLaTeX/commit/5c0b14526956c94ab37dcb39870b051923903b70">5c0b145</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
