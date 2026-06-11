@@ -4,15 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/huangwb8/ccs.principle/commit/c5f02e9a51eae744b7e73edc6954d1ce8163517c">c5f02e9</a>: chore: add AI-assisted development infrastructure
-
-- add AGENTS.md as cross-platform AI project instructions (SSOT)
-- add CLAUDE.md as Claude Code specific adapter
-- add CHANGELOG.md for mandatory change tracking
-- enhance .gitignore with comprehensive OS, IDE, LaTeX, and archive patterns
-- document AI instruction files in README
-
-Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
+- <a href="https://github.com/huangwb8/bensz-auto-contribution/commit/c434f7d08e18b7a862357a9b0f0a2451ac4a5c34">c434f7d</a>: chore: update prompt log with source laundering and attribution entries
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

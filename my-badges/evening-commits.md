@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/huangwb8/bensz-auto-contribution/commit/e1b79b9a9c94738be93903612bc352e60f1e66aa">e1b79b9</a>
-- <a href="https://github.com/huangwb8/bensz-auto-contribution/commit/05c70bad6b742a53fe5cc74f6d083d75990aa43d">05c70ba</a>
-- <a href="https://github.com/huangwb8/skills/commit/8321c49deb35b4a5f7f5c8872ed454caa697869f">8321c49</a>
-- <a href="https://github.com/huangwb8/bensz-auto-contribution/commit/7a5b2a5b9637780d4ea2769b0cc53e52eb54b2a1">7a5b2a5</a>
-- <a href="https://github.com/huangwb8/skills/commit/0b80d277442d375dc60b38030b01dacaf9298dc8">0b80d27</a>
-- <a href="https://github.com/huangwb8/skills/commit/84102eb4924221887d6e9d8ca4fbb933dd43de0c">84102eb</a>
+- <a href="https://github.com/huangwb8/vibe-teaching/commit/ce0569511ca3903846638407e3e88a0a7cc7c3c4">ce05695</a>
+- <a href="https://github.com/huangwb8/vibe-teaching/commit/5c80824c399756148e4b342a81e3ec1219a8d613">5c80824</a>
+- <a href="https://github.com/huangwb8/vibe-teaching/commit/90a10b368a4d07bfd361f15cc5117fcab86d1443">90a10b3</a>
+- <a href="https://github.com/huangwb8/bensz-auto-contribution/commit/2556557f45fedfd51dc6f1e6cf77cc515929be03">2556557</a>
+- <a href="https://github.com/huangwb8/bensz-auto-contribution/commit/dde4e6a76ccbeb956e2ed697fb87e0fd0d82b9b0">dde4e6a</a>
+- <a href="https://github.com/huangwb8/bensz-auto-contribution/commit/07938fbaa99b3cc1802eed13a10d00fe8c8f52ba">07938fb</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

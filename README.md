@@ -37,6 +37,7 @@
 <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
 <a href="my-badges/fix-6.md"><img src="https://my-badges.github.io/my-badges/fix-6.png" alt="I did 6 sequential fixes." title="I did 6 sequential fixes." width="64"></a>
 <a href="my-badges/stars-2000.md"><img src="https://my-badges.github.io/my-badges/stars-2000.png" alt="I collected 2000 stars." title="I collected 2000 stars." width="64"></a>
+<a href="my-badges/fix-4.md"><img src="https://my-badges.github.io/my-badges/fix-4.png" alt="I did 4 sequential fixes." title="I did 4 sequential fixes." width="64"></a>
 <!-- my-badges end -->
 
 ### 👋 Hi there
