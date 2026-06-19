@@ -55,9 +55,9 @@ width="100%"  height="2">
 <!-- <img align='right' src="https://chevereto.hwb0307.com/images/2023/04/28/zzmx-71.jpg" width="450"/> -->
 <img align='right' src="https://blogcdn.hwb0307.top/images/zzmx-71.jpg" width="450"/>
 
-I am a gastrointestinal surgeon and bioinformatician specializing in cancer genomics and clinical data analysis. Working at the Department of General Surgery, Zhujiang Hospital, Southern Medical University, I am dedicated to applying bioinformatics methods to clinical research and advancing precision medicine.
+I'm a **physician-scientist and AI-native builder** — a gastrointestinal surgeon and bioinformatician at the Department of General Surgery, Zhujiang Hospital, Southern Medical University. My clinical and cancer-genomics background is the moat; what I build on top of it is what defines me: turning AI tools into reusable research workflows, standardized agent skills, and trustworthy productivity systems for science.
 
-As an R developer and open-source enthusiast, I believe in the power of technology to drive medical research forward. I am passionate about developing practical tools and templates that help researchers work more efficiently, making scientific research simpler and more beautiful.
+I don't just use AI — I architect it into systems. My work lives at the intersection of three rings: **AI Agent Infrastructure** (standardized Agent Skills, agent-workflow pipelines), **Biomedical Research Tools** (R packages, transcriptome classifiers, LaTeX templates for precision medicine), and **Research & Productivity Platforms** (community platforms, automation tools, contribution-provenance layers). The common thread: spot real friction in a research workflow, then ship a tool that makes the whole thing simpler, more verifiable, and more beautiful.
 
 I am also an active blogger at [blognas.hwb0307.com](https://blognas.hwb0307.com/map), where I share knowledge at the intersection of technology and biomedical research. My blog covers:
 
@@ -68,9 +68,9 @@ I am also an active blogger at [blognas.hwb0307.com](https://blognas.hwb0307.com
 
 Here are a few core principles I live by:
 
-- **Learn for beauty** - Learning for the sake of beauty, maintaining a love for knowledge and pursuit of elegance, continuously advancing on the path of scientific research.
-- Personal growth largely stems from **continuous learning** and **knowledge sharing**. I aspire to be a dedicated knowledge bearer—what I learn, internalize, and share should benefit others. That would be my greatest fortune!
-- I am also someone who enjoys making friends. I maintain an open and friendly attitude toward everyone, whether familiar or new, hoping to connect with more like-minded individuals.
+- **Learn for beauty** — Pursue elegance and keep a love for knowledge; beauty is the compass that keeps me moving on the path of science.
+- **Ship, then refine** — I'd rather get a rough prototype running today than chase a perfect plan. When something works, I distill it into a reusable skill or system so the next round starts from higher ground.
+- **Grow by sharing** — I aspire to be a dedicated knowledge bearer: what I learn, internalize, and share should benefit others. I keep an open, friendly door for everyone, familiar or new — that connection is my greatest fortune.
 
 <div align="center">
 

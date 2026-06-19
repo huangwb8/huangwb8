@@ -9,6 +9,7 @@
 ### Changed（变更）
 
 - 修改了 README.md 中的社区频道信息：从 QQ 频道更新为 Bensz Channel (https://channel.hwb0307.com)，并添加了 RSS 支持说明
+- 重构了 README.md 自我介绍部分：依据职业定位建议，将叙事从「传统生医研究者」收敛为「医学科研背景的 AI-native 产品构建者」，突出 Agent Skills、科研自动化与可信科研基础设施三类项目方向；保留 Learn for beauty 等个人理念与博客/社区频道元素
 
 ## [1.0.0] - 2026-03-08
 
