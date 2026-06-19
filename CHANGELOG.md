@@ -6,6 +6,10 @@
 
 ## [Unreleased]
 
+### Added（新增）
+
+- 在 README.md 项目展示表中新增 AI 类别项目 BAC（Bensz Auto Contribution，https://github.com/huangwb8/bensz-auto-contribution）：人机协作的防篡改贡献归因系统
+
 ### Changed（变更）
 
 - 修改了 README.md 中的社区频道信息：从 QQ 频道更新为 Bensz Channel (https://channel.hwb0307.com)，并添加了 RSS 支持说明
