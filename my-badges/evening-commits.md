@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/huangwb8/vibe-teaching/commit/ce0569511ca3903846638407e3e88a0a7cc7c3c4">ce05695</a>
-- <a href="https://github.com/huangwb8/vibe-teaching/commit/5c80824c399756148e4b342a81e3ec1219a8d613">5c80824</a>
-- <a href="https://github.com/huangwb8/vibe-teaching/commit/90a10b368a4d07bfd361f15cc5117fcab86d1443">90a10b3</a>
-- <a href="https://github.com/huangwb8/bensz-auto-contribution/commit/2556557f45fedfd51dc6f1e6cf77cc515929be03">2556557</a>
-- <a href="https://github.com/huangwb8/bensz-auto-contribution/commit/dde4e6a76ccbeb956e2ed697fb87e0fd0d82b9b0">dde4e6a</a>
-- <a href="https://github.com/huangwb8/bensz-auto-contribution/commit/07938fbaa99b3cc1802eed13a10d00fe8c8f52ba">07938fb</a>
+- <a href="https://github.com/huangwb8/ChineseResearchLaTeX/commit/b04421e9b56820da9e3a6af3177652e00a8a2eb8">b04421e</a>
+- <a href="https://github.com/huangwb8/VibeNotification/commit/39c0da4f20a018fe93e41cb75f96751d737745f7">39c0da4</a>
+- <a href="https://github.com/huangwb8/ChineseResearchLaTeX/commit/297d92b550d2e7d1ba2dd48f502bccbb563349ba">297d92b</a>
+- <a href="https://github.com/huangwb8/bensz-bugs/commit/cee0c0646f0c854f9bc2e150d89456cbc69244e7">cee0c06</a>
+- <a href="https://github.com/huangwb8/bensz-bugs/commit/d25ffa68dbc72b55dcb6a271eb47ef60589fee00">d25ffa6</a>
+- <a href="https://github.com/huangwb8/ChineseResearchLaTeX/commit/cd9bafa5672e7075737fcf23e6c3a4a695d57bc5">cd9bafa</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

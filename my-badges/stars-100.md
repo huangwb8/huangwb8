@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/huangwb8/m2w">huangwb8/m2w: ★44</a>
-* <a href="https://github.com/huangwb8/skills">huangwb8/skills: ★39</a>
+* <a href="https://github.com/huangwb8/skills">huangwb8/skills: ★42</a>
 * <a href="https://github.com/huangwb8/bloghelper">huangwb8/bloghelper: ★11</a>
 * <a href="https://github.com/huangwb8/live2dyy">huangwb8/live2dyy: ★6</a>
 * <a href="https://github.com/huangwb8/openmediavault_zfs">huangwb8/openmediavault_zfs: ★5</a>
