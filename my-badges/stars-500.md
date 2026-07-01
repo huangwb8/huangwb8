@@ -4,13 +4,13 @@
 
 Repos:
 
-* <a href="https://github.com/huangwb8/ChineseResearchLaTeX">huangwb8/ChineseResearchLaTeX: ★2379</a>
+* <a href="https://github.com/huangwb8/ChineseResearchLaTeX">huangwb8/ChineseResearchLaTeX: ★2456</a>
+* <a href="https://github.com/huangwb8/skills">huangwb8/skills: ★45</a>
 * <a href="https://github.com/huangwb8/m2w">huangwb8/m2w: ★44</a>
-* <a href="https://github.com/huangwb8/skills">huangwb8/skills: ★42</a>
 * <a href="https://github.com/huangwb8/bloghelper">huangwb8/bloghelper: ★11</a>
 * <a href="https://github.com/huangwb8/live2dyy">huangwb8/live2dyy: ★6</a>
 * <a href="https://github.com/huangwb8/openmediavault_zfs">huangwb8/openmediavault_zfs: ★5</a>
-* <a href="https://github.com/huangwb8/huangwb8">huangwb8/huangwb8: ★4</a>
+* <a href="https://github.com/huangwb8/huangwb8">huangwb8/huangwb8: ★5</a>
 * <a href="https://github.com/huangwb8/bensz-channel">huangwb8/bensz-channel: ★4</a>
 * <a href="https://github.com/huangwb8/easySCI">huangwb8/easySCI: ★3</a>
 * <a href="https://github.com/huangwb8/VibeNotification">huangwb8/VibeNotification: ★3</a>

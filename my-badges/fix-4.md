@@ -4,28 +4,32 @@
 
 Commits:
 
-- <a href="https://github.com/huangwb8/ChineseResearchLaTeX/commit/cd89694f0a23142ec2a7a070833efa80518a7402">cd89694</a>: fix(bensz-thesis): 对齐 thesis-nju-master 章标题/目录/小节/图表/表格字体与南京大学论文规范
+- <a href="https://github.com/huangwb8/VibeNotification/commit/6655f4f15ac912c824f5d6f63caf54e8f715106c">6655f4f</a>: fix(parsers): v1.0.22 抑制 Claude Code 重复 Stop 与非回复钩子误通知
 
-- 章标题字号收敛为小三号仿宋加黑（15bp），目录章级条目补回小四号仿宋加粗
-- 小节标题行距调整为小四号 1.5 倍口径（18bp baseline）
-- 图表题注统一使用五号仿宋，表格正文（tabular/tabularx/longtable）默认五号仿宋
-- 包版本推进至 p_v20260606.3，避免安装器跳过此次样式修复
-- <a href="https://github.com/huangwb8/ChineseResearchLaTeX/commit/51a5e635833321867616197fc5ccdd2a78b1f1f5">51a5e63</a>: fix(bensz-thesis): 对齐 thesis-nju-master 目录页章级条目与内容列缩进
+- 增加 Claude Stop 去重状态，避免同一回复被多次通知
+- 将 Notification 等非终止 hook 标记为显式忽略并在核心流程跳过
+- 补充回归测试并更新发布版本到 1.0.22
+- <a href="https://github.com/huangwb8/VibeNotification/commit/39c0da4f20a018fe93e41cb75f96751d737745f7">39c0da4</a>: fix(parsers): v1.0.21 修复 Claude Code 新版 Stop 钩子高频误通知
 
-- 收回章级条目左凸问题，让"第 1 章 绪论"等与摘要、参考文献等目录项处于同一内容列
-- 调整 section/subsection 缩进与点线密度，改善目录层级拥挤问题
-- 目录页后追加 \thispagestyle{njuempty} 抑制页码
-- 将 package.json 版本推进到 p_v20260606.2
-- <a href="https://github.com/huangwb8/ChineseResearchLaTeX/commit/272b32ca741a3425cfc321479b6480e3148531c8">272b32c</a>: fix(bensz-thesis): 对齐 thesis-nju-master 与南京大学 2023.2 论文规范的仿宋体系与前后置材料
+- 新增基于 transcript_path 真实状态的中间停止判定，仅在主代理完整回复结束时通知
+- 通过 stop_hook_active 去重 Stop 链重复触发，避免重复通知
+- 跳过 transcript 尾部元数据行，无 transcript 或读取失败时保守通知避免漏报
+- 新增 8 个回归测试覆盖中间停止、回复结束、元数据跳过、去重与回退场景
+- <a href="https://github.com/huangwb8/VibeNotification/commit/074da447aec43dc967c85e08d1322d41d33a4451">074da44</a>: fix(detectors): v1.0.19 将 SessionEnd/SubagentStop 标记为非回复完成，修复误通知
 
-- 将正文、章节标题、摘要标题和图表题注统一收敛到仿宋字体（AutoFakeBold=3.5），封面根据 \njuSetDegreeType 区分"申请硕士专业学位/申请硕士学位"与"专业学位类别（领域）/学科、专业名称"字段
-- 新增原创性声明、学位论文使用授权声明和出版授权书页面宏，章节编号改用阿拉伯数字
-- 移除 README 中不存在的 baseline.tex 说明，同步更新 CHANGELOG 并将 package.json 版本推进到 p_v20260606.1
-- <a href="https://github.com/huangwb8/ChineseResearchLaTeX/commit/544ab447d77a8222f4cca9f326c69afa58af4cb9">544ab44</a>: fix(bensz-thesis): 优化 thesis-nju-master 封面题目填写区与目录层级样式
+- SessionEnd 和 SubagentStop 不再触发通知，仅 Stop（主回复完成）触发
+- Codex session-end 事件及嵌套 session-end 统一忽略
+- Codex commentary phase 不再误判为最终答复，优先检测 terminal phase
+- 移除 Claude Code parser 中 toolName 检测，避免工具调用误触发
+- doctor 建议更新：SessionEnd hook 降级为 WARN，推荐仅使用 Stop
+- 精简 README 文档，移除多余的 SessionEnd/SubagentStop 配置示例
+- <a href="https://github.com/huangwb8/VibeNotification/commit/e77cc73321dfefa2b5393a43faf6866fde5d36e7">e77cc73</a>: fix(detectors): v1.0.18 修复 Codex 误通知逻辑，优化会话终止判定
 
-- 扩大封面字段区与下划线宽度，对超长题目增加自动测量与等比压缩保护
-- 重新设计目录页章/节/小节层级缩进与点线节奏，改善拥挤问题
-- 将 package.json 版本推进到 p_v20260606
+- 修复 _looks_like_codex_progress_message 对确认前缀的误判，改为正确返回 True 抑制通知
+- 简化 _detect_codex_conversation_end 结构化信号处理，移除冗余的 event_type 二次检查
+- 修复 CI 工作流路径（src/ → vibe_notification/），改用 pip install -e . 安装
+- 补充 .gitignore 对 tests/unit/test_*.py 和 conftest.py 的例外规则
+- 新增单元测试文件覆盖核心逻辑
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
