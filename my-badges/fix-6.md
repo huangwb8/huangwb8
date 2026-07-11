@@ -4,49 +4,42 @@
 
 Commits:
 
-- <a href="https://github.com/huangwb8/ChineseResearchLaTeX/commit/81d9ed85e0a84e3fe07a5405e38fd947ea58ec06">81d9ed8</a>: fix(packages/bensz-paper): 修复 DOCX References 标题层级与 bibliography 单段排版
+- <a href="https://github.com/huangwb8/VibeNotification/commit/087f35e339d180d37e3d763366fe2a2b879eb4e4">087f35e</a>: fix(parsers): v1.0.25 强化钩子幂等与误通知抑制
 
-- 统一 References 为 Heading 1 并确保位于首条参考文献前
-- 移除 CSL second-field-align="flush" 避免编号与正文拆段
-- 新增标题升级与单段 bibliography 回归测试
-- 版本升级 p_v20260405 → p_v20260406 / CLI 1.3.4 → 1.3.5
+- 修复 Claude Code 增量消息、后台任务与未知钩子的误通知
+- 增加 Codex turn 跨进程幂等并强化生命周期事件静默
+- 补充回归测试、语义文档与 1.0.25 发布元数据
+- <a href="https://github.com/huangwb8/VibeNotification/commit/d06d734a34149318e4f4126e0a6e55f8b88f3837">d06d734</a>: fix(parsers): v1.0.23 抑制子代理钩子误通知，扩展 Codex 钩子事件识别
 
-Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
-- <a href="https://github.com/huangwb8/ChineseResearchLaTeX/commit/755ed2e747eafec748e1b811b2a23e557ab4235d">755ed2e</a>: fix(packages/bensz-paper): 修复 DOCX 通讯作者星号上标降级为原文 `^*^` 的问题
+- 识别 Claude Code 子代理 sidechain 与 subagent 标记，跳过其 Stop 钩子通知
+- 扩展 Codex 钩子事件类型，新增 subagentstart/subagentstop/precompact 等
+- 新增官方钩子语义文档与子代理误通知回归测试
+- <a href="https://github.com/huangwb8/VibeNotification/commit/6655f4f15ac912c824f5d6f63caf54e8f715106c">6655f4f</a>: fix(parsers): v1.0.22 抑制 Claude Code 重复 Stop 与非回复钩子误通知
 
-- 保留 Pandoc 生成的 `\*` 转义，不再在 `_convert_sup_tags_to_superscript` 中错误地将其替换为裸 `*`
-- 新增转义星号单元测试与 DOCX round-trip 回归测试，防止再次回退
-- 重构测试辅助函数 `_build_docx_via_production_pipeline` 以减少重复代码
+- 增加 Claude Stop 去重状态，避免同一回复被多次通知
+- 将 Notification 等非终止 hook 标记为显式忽略并在核心流程跳过
+- 补充回归测试并更新发布版本到 1.0.22
+- <a href="https://github.com/huangwb8/VibeNotification/commit/39c0da4f20a018fe93e41cb75f96751d737745f7">39c0da4</a>: fix(parsers): v1.0.21 修复 Claude Code 新版 Stop 钩子高频误通知
 
-Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
-- <a href="https://github.com/huangwb8/ChineseResearchLaTeX/commit/ca50a0393f3c0b384b9d8c7d58d6dba3233d628d">ca50a03</a>: fix(packages/bensz-paper): 修复 References 书签稳定性与 DOCX 尾部章节兼容性
+- 新增基于 transcript_path 真实状态的中间停止判定，仅在主代理完整回复结束时通知
+- 通过 stop_hook_active 去重 Stop 链重复触发，避免重复通知
+- 跳过 transcript 尾部元数据行，无 transcript 或读取失败时保守通知避免漏报
+- 新增 8 个回归测试覆盖中间停止、回复结束、元数据跳过、去重与回退场景
+- <a href="https://github.com/huangwb8/VibeNotification/commit/074da447aec43dc967c85e08d1322d41d33a4451">074da44</a>: fix(detectors): v1.0.19 将 SessionEnd/SubagentStop 标记为非回复完成，修复误通知
 
-- main.tex 改为显式 \section{References} + \printbibliography[heading=none]，保证 PDF 书签稳定出现
-- fix_docx_spacing.py 扩展尾部章节识别，兼容 Figure titles and legends 与 Supplemental information titles and legends 命名变体
-- results.tex 将 cases 环境改为 array 环境，消除 xelatex 对齐符误报
-- <a href="https://github.com/huangwb8/ChineseResearchLaTeX/commit/81622c670c4d2c1321809db5276530b79906feb1">81622c6</a>: fix(packages/bensz-paper): 修复 DOCX 数学公式退化、表格边框缺失与参考文献 DOI 冗余
+- SessionEnd 和 SubagentStop 不再触发通知，仅 Stop（主回复完成）触发
+- Codex session-end 事件及嵌套 session-end 统一忽略
+- Codex commentary phase 不再误判为最终答复，优先检测 terminal phase
+- 移除 Claude Code parser 中 toolName 检测，避免工具调用误触发
+- doctor 建议更新：SessionEnd hook 降级为 WARN，推荐仅使用 Stop
+- 精简 README 文档，移除多余的 SessionEnd/SubagentStop 配置示例
+- <a href="https://github.com/huangwb8/VibeNotification/commit/e77cc73321dfefa2b5393a43faf6866fde5d36e7">e77cc73</a>: fix(detectors): v1.0.18 修复 Codex 误通知逻辑，优化会话终止判定
 
-- 重建 DOCX 导出链路：先经 HTML5+MathML 中间态再写入 Word，使 LaTeX 公式落成原生 OMML 对象
-- 为 Pandoc 默认生成的 Normal Table 自动补上可见横向边框，保留已有自定义边框
-- PDF/DOCX 参考文献改为 DOI 优先，抑制 URL 重复打印
-- 扩充 paper-sci-01 示例：补入代表性公式、最小资源表与 CSL/bib 收口
-- 新增数学语法、表格边框与 bibliography 口径回归测试
-- 公共包版本升级至 p_v20260402（脚本 1.3.3）
-
-Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
-- <a href="https://github.com/huangwb8/ChineseResearchLaTeX/commit/26f0730e9fb0fc9cc847cdc9b5ef382e69f13dd7">26f0730</a>: fix(scripts): 修复 README 模板列表同步工作流被无关测试拦截的问题
-
-- 将 update-template-list.yml 回归测试范围收窄至模板列表与 Issue 链接相关脚本，移除 test_install_architecture.py
-- 为 pack_release.py 补回 add_*_runtime_bundle() 兼容入口，避免外部调用方断裂
-- 修正 test_install_architecture.py 对 thesis-ucas-doctor 标准包内容的断言
-
-Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
-- <a href="https://github.com/huangwb8/ChineseResearchLaTeX/commit/5c0b14526956c94ab37dcb39870b051923903b70">5c0b145</a>: fix(packages/bensz-paper): 同步版本号至 1.3.1 并修正模块名
-
-- 修正 __init__.py 模块文档字符串为 bensz-paper 并同步 __version__ 至 1.3.1
-- 补充 __version__ 与 manuscript_tool.VERSION 的一致性测试
-
-Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
+- 修复 _looks_like_codex_progress_message 对确认前缀的误判，改为正确返回 True 抑制通知
+- 简化 _detect_codex_conversation_end 结构化信号处理，移除冗余的 event_type 二次检查
+- 修复 CI 工作流路径（src/ → vibe_notification/），改用 pip install -e . 安装
+- 补充 .gitignore 对 tests/unit/test_*.py 和 conftest.py 的例外规则
+- 新增单元测试文件覆盖核心逻辑
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

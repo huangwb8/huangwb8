@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/huangwb8/skills">huangwb8/skills: ★45</a>
+* <a href="https://github.com/huangwb8/skills">huangwb8/skills: ★46</a>
 * <a href="https://github.com/huangwb8/m2w">huangwb8/m2w: ★44</a>
 * <a href="https://github.com/huangwb8/bloghelper">huangwb8/bloghelper: ★11</a>
 * <a href="https://github.com/huangwb8/live2dyy">huangwb8/live2dyy: ★6</a>
@@ -20,6 +20,7 @@ Repos:
 * <a href="https://github.com/huangwb8/sysu-thesis">huangwb8/sysu-thesis: ★1</a>
 * <a href="https://github.com/huangwb8/awesome-resume-for-chinese">huangwb8/awesome-resume-for-chinese: ★1</a>
 * <a href="https://github.com/huangwb8/liuli_backup">huangwb8/liuli_backup: ★1</a>
+* <a href="https://github.com/huangwb8/bensz-auto-contribution">huangwb8/bensz-auto-contribution: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
