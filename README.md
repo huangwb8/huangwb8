@@ -149,17 +149,17 @@ Here are a few core principles I live by:
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🦍 [validate-md-ref-report](https://blognas.hwb0307.com/other/7087) 
+- 🦍 [GPT-5.6系列模型的社区反馈、基准表现和使用建议](https://blognas.hwb0307.com/other/7085) 
 
-- 🦄 [GPT-5.6系列模型的社区反馈、基准表现和使用建议](https://blognas.hwb0307.com/other/7085) 
+- 🦄 [科研造假风盛行背后的冷知识](https://blognas.hwb0307.com/other/7075) 
 
-- 🥷 [科研造假风盛行背后的冷知识](https://blognas.hwb0307.com/other/7075) 
+- 🥷 [AI入门系列 关于科研AI写作边界的讨论](https://blognas.hwb0307.com/ai/7070) 
 
-- 🚦 [AI入门系列 关于科研AI写作边界的讨论](https://blognas.hwb0307.com/ai/7070) 
+- 🚦 [Docker系列 Bensz Channel：构建AI时代Up主和粉丝互动的高效平台](https://blognas.hwb0307.com/linux/docker/7053) 
 
-- 🐵 [Docker系列 Bensz Channel：构建AI时代Up主和粉丝互动的高效平台](https://blognas.hwb0307.com/linux/docker/7053) 
+- 🐵 [AI入门系列 Vibe Coding实战](https://blognas.hwb0307.com/ai/7035) 
 
-- 💪 [AI入门系列 Vibe Coding实战](https://blognas.hwb0307.com/ai/7035) 
+- 💪 [AI入门系列 一种实用的Prompt工程： Agent Skill](https://blognas.hwb0307.com/ai/7028) 
 <!-- BLOG-POST-LIST:END -->
 
 For more content, visit: [https://blognas.hwb0307.com](https://blognas.hwb0307.com)
