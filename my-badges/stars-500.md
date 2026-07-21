@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/huangwb8/ChineseResearchLaTeX">huangwb8/ChineseResearchLaTeX: ★2491</a>
+* <a href="https://github.com/huangwb8/ChineseResearchLaTeX">huangwb8/ChineseResearchLaTeX: ★2543</a>
 * <a href="https://github.com/huangwb8/skills">huangwb8/skills: ★46</a>
 * <a href="https://github.com/huangwb8/m2w">huangwb8/m2w: ★44</a>
 * <a href="https://github.com/huangwb8/bloghelper">huangwb8/bloghelper: ★11</a>
