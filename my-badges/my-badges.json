@@ -33,5 +33,12 @@
     "desc": "I have four public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
+  },
+  {
+    "id": "thumbs-up-10",
+    "tier": 1,
+    "desc": "I got more than 10 thumbs up.",
+    "body": "* <a href=\"https://github.com/openai/codex/issues/15807\">13 👍</a>",
+    "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
   }
 ]
