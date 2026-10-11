@@ -24,7 +24,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/rli012/GDCRNATools/issues/6\">#6</a>: Questions and advice for GDCRNATools\n- <a href=\"https://github.com/Gibbsdavidl/Immune-Subtype-Clustering/issues/4\">#4</a>: Why some Change happen in 'ImmuneSigs_function' in ImmuneSigs68_function.R?\n- <a href=\"https://github.com/CRI-iAtlas/ImmuneSubtypeClassifier/issues/3\">#3</a>: Data preparation of ImmuneSubtypeClassifier Package\n- <a href=\"https://github.com/YuLab-SMU/DOSE/issues/28\">#28</a>: Some problems about 'maxGSSize' parameter in enricher_interval series function\n- <a href=\"https://github.com/yixuan/prettydoc/issues/37\">#37</a>: prettydoc: about scrolling catalogue in html and head-hiding in markdown\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/rli012/GDCRNATools/issues/6\">#6</a>: Questions and advice for GDCRNATools\n- <a href=\"https://github.com/Gibbsdavidl/Immune-Subtype-Clustering/issues/4\">#4</a>: Why some Change happen in 'ImmuneSigs_function' in ImmuneSigs68_function.R?\n- <a href=\"https://github.com/CRI-iAtlas/ImmuneSubtypeClassifier/issues/3\">#3</a>: Data preparation of ImmuneSubtypeClassifier Package\n- <a href=\"https://github.com/yixuan/prettydoc/issues/37\">#37</a>: prettydoc: about scrolling catalogue in html and head-hiding in markdown\n- <a href=\"https://github.com/typora/typora-issues/issues/6383\">#6383</a>: Compatibility with Joplin\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "thumbs-up-10",
     "tier": 1,
     "desc": "I got more than 10 thumbs up.",
-    "body": "* <a href=\"https://github.com/openai/codex/issues/15807\">15 👍</a>",
+    "body": "* <a href=\"https://github.com/openai/codex/issues/15807\">18 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
   }
 ]
